@@ -1,0 +1,12 @@
+Philosopher.{,1}s Stone
+Philosopher's Stone
+Worker.{,1}s Village
+Worker's Village
+King.{,1}s Court
+King's Court
+Fool.{,1}s Gold
+Fool's Gold
+Jack [oO]f [Aa]ll [Tt]rades
+Jack of all Trades
+\[\[ *([^ ][^\]]*[^ ]) *\]\]
+[[\1]]
