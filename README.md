@@ -13,5 +13,8 @@ It's not ready-to-use, but not much has to be done to let it run.
 - API access to the wiki and a configured pywikipedia-bot.  In case you wonder, wiki name is 'dominion', don't know if that is documentated somewhere (else than here), I used trial and error to find out...
 
 2) Some stuff because I was too lazy for proper coding:
-- the scripts from pywikipedia have to be located in the subfolder/symlink scripts/ relative to the bot.  Or you have to change the location in runscripts.sh (and maybe somewhere else).
+- the scripts from pywikipedia have to be located in the subfolder/symlink ./scripts/ relative to the bot.  Or you have to change the location in runscripts.sh (and maybe somewhere else).
 - Will overwrite and remove some files in the folder, so you better don't have important stuff in tmp.dat in the folder of the bot.
+
+3) How to run:
+- run ./runScripts.sh, this fetches changes pages via ./getChanges.sh, and runs the pywikipedia scripts on this pages.
