@@ -1,1362 +1,1362 @@
-([^a-zA-Z])\[\[Cellar\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Cellar\]\]([^a-zA-Z’'`])
 \1{{Card|Cellar}}\2
-([a-zA-Z]*)\[\[Cellar\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Cellar\]\]([a-zA-Z’'`]*)
 {{Card|Cellar|\1Cellar\2}}
 \[\[Cellar\|([^\]]*)\]\]
 {{Card|Cellar|\1}}
-([^a-zA-Z])\[\[Chapel\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Chapel\]\]([^a-zA-Z’'`])
 \1{{Card|Chapel}}\2
-([a-zA-Z]*)\[\[Chapel\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Chapel\]\]([a-zA-Z’'`]*)
 {{Card|Chapel|\1Chapel\2}}
 \[\[Chapel\|([^\]]*)\]\]
 {{Card|Chapel|\1}}
-([^a-zA-Z])\[\[Moat\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Moat\]\]([^a-zA-Z’'`])
 \1{{Card|Moat}}\2
-([a-zA-Z]*)\[\[Moat\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Moat\]\]([a-zA-Z’'`]*)
 {{Card|Moat|\1Moat\2}}
 \[\[Moat\|([^\]]*)\]\]
 {{Card|Moat|\1}}
-([^a-zA-Z])\[\[Chancellor\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Chancellor\]\]([^a-zA-Z’'`])
 \1{{Card|Chancellor}}\2
-([a-zA-Z]*)\[\[Chancellor\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Chancellor\]\]([a-zA-Z’'`]*)
 {{Card|Chancellor|\1Chancellor\2}}
 \[\[Chancellor\|([^\]]*)\]\]
 {{Card|Chancellor|\1}}
-([^a-zA-Z])\[\[Village\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Village\]\]([^a-zA-Z’'`])
 \1{{Card|Village}}\2
-([a-zA-Z]*)\[\[Village\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Village\]\]([a-zA-Z’'`]*)
 {{Card|Village|\1Village\2}}
 \[\[Village\|([^\]]*)\]\]
 {{Card|Village|\1}}
-([^a-zA-Z])\[\[Woodcutter\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Woodcutter\]\]([^a-zA-Z’'`])
 \1{{Card|Woodcutter}}\2
-([a-zA-Z]*)\[\[Woodcutter\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Woodcutter\]\]([a-zA-Z’'`]*)
 {{Card|Woodcutter|\1Woodcutter\2}}
 \[\[Woodcutter\|([^\]]*)\]\]
 {{Card|Woodcutter|\1}}
-([^a-zA-Z])\[\[Workshop\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Workshop\]\]([^a-zA-Z’'`])
 \1{{Card|Workshop}}\2
-([a-zA-Z]*)\[\[Workshop\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Workshop\]\]([a-zA-Z’'`]*)
 {{Card|Workshop|\1Workshop\2}}
 \[\[Workshop\|([^\]]*)\]\]
 {{Card|Workshop|\1}}
-([^a-zA-Z])\[\[Bureaucrat\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Bureaucrat\]\]([^a-zA-Z’'`])
 \1{{Card|Bureaucrat}}\2
-([a-zA-Z]*)\[\[Bureaucrat\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Bureaucrat\]\]([a-zA-Z’'`]*)
 {{Card|Bureaucrat|\1Bureaucrat\2}}
 \[\[Bureaucrat\|([^\]]*)\]\]
 {{Card|Bureaucrat|\1}}
-([^a-zA-Z])\[\[Feast\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Feast\]\]([^a-zA-Z’'`])
 \1{{Card|Feast}}\2
-([a-zA-Z]*)\[\[Feast\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Feast\]\]([a-zA-Z’'`]*)
 {{Card|Feast|\1Feast\2}}
 \[\[Feast\|([^\]]*)\]\]
 {{Card|Feast|\1}}
-([^a-zA-Z])\[\[Gardens\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Gardens\]\]([^a-zA-Z’'`])
 \1{{Card|Gardens}}\2
-([a-zA-Z]*)\[\[Gardens\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Gardens\]\]([a-zA-Z’'`]*)
 {{Card|Gardens|\1Gardens\2}}
 \[\[Gardens\|([^\]]*)\]\]
 {{Card|Gardens|\1}}
-([^a-zA-Z])\[\[Militia\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Militia\]\]([^a-zA-Z’'`])
 \1{{Card|Militia}}\2
-([a-zA-Z]*)\[\[Militia\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Militia\]\]([a-zA-Z’'`]*)
 {{Card|Militia|\1Militia\2}}
 \[\[Militia\|([^\]]*)\]\]
 {{Card|Militia|\1}}
-([^a-zA-Z])\[\[Moneylender\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Moneylender\]\]([^a-zA-Z’'`])
 \1{{Card|Moneylender}}\2
-([a-zA-Z]*)\[\[Moneylender\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Moneylender\]\]([a-zA-Z’'`]*)
 {{Card|Moneylender|\1Moneylender\2}}
 \[\[Moneylender\|([^\]]*)\]\]
 {{Card|Moneylender|\1}}
-([^a-zA-Z])\[\[Remodel\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Remodel\]\]([^a-zA-Z’'`])
 \1{{Card|Remodel}}\2
-([a-zA-Z]*)\[\[Remodel\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Remodel\]\]([a-zA-Z’'`]*)
 {{Card|Remodel|\1Remodel\2}}
 \[\[Remodel\|([^\]]*)\]\]
 {{Card|Remodel|\1}}
-([^a-zA-Z])\[\[Smithy\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Smithy\]\]([^a-zA-Z’'`])
 \1{{Card|Smithy}}\2
-([a-zA-Z]*)\[\[Smithy\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Smithy\]\]([a-zA-Z’'`]*)
 {{Card|Smithy|\1Smithy\2}}
 \[\[Smithy\|([^\]]*)\]\]
 {{Card|Smithy|\1}}
-([^a-zA-Z])\[\[Spy\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Spy\]\]([^a-zA-Z’'`])
 \1{{Card|Spy}}\2
-([a-zA-Z]*)\[\[Spy\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Spy\]\]([a-zA-Z’'`]*)
 {{Card|Spy|\1Spy\2}}
 \[\[Spy\|([^\]]*)\]\]
 {{Card|Spy|\1}}
-([^a-zA-Z])\[\[Thief\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Thief\]\]([^a-zA-Z’'`])
 \1{{Card|Thief}}\2
-([a-zA-Z]*)\[\[Thief\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Thief\]\]([a-zA-Z’'`]*)
 {{Card|Thief|\1Thief\2}}
 \[\[Thief\|([^\]]*)\]\]
 {{Card|Thief|\1}}
-([^a-zA-Z])\[\[Throne Room\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Throne Room\]\]([^a-zA-Z’'`])
 \1{{Card|Throne Room}}\2
-([a-zA-Z]*)\[\[Throne Room\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Throne Room\]\]([a-zA-Z’'`]*)
 {{Card|Throne Room|\1Throne Room\2}}
 \[\[Throne Room\|([^\]]*)\]\]
 {{Card|Throne Room|\1}}
-([^a-zA-Z])\[\[Council Room\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Council Room\]\]([^a-zA-Z’'`])
 \1{{Card|Council Room}}\2
-([a-zA-Z]*)\[\[Council Room\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Council Room\]\]([a-zA-Z’'`]*)
 {{Card|Council Room|\1Council Room\2}}
 \[\[Council Room\|([^\]]*)\]\]
 {{Card|Council Room|\1}}
-([^a-zA-Z])\[\[Festival\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Festival\]\]([^a-zA-Z’'`])
 \1{{Card|Festival}}\2
-([a-zA-Z]*)\[\[Festival\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Festival\]\]([a-zA-Z’'`]*)
 {{Card|Festival|\1Festival\2}}
 \[\[Festival\|([^\]]*)\]\]
 {{Card|Festival|\1}}
-([^a-zA-Z])\[\[Laboratory\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Laboratory\]\]([^a-zA-Z’'`])
 \1{{Card|Laboratory}}\2
-([a-zA-Z]*)\[\[Laboratory\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Laboratory\]\]([a-zA-Z’'`]*)
 {{Card|Laboratory|\1Laboratory\2}}
 \[\[Laboratory\|([^\]]*)\]\]
 {{Card|Laboratory|\1}}
-([^a-zA-Z])\[\[Library\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Library\]\]([^a-zA-Z’'`])
 \1{{Card|Library}}\2
-([a-zA-Z]*)\[\[Library\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Library\]\]([a-zA-Z’'`]*)
 {{Card|Library|\1Library\2}}
 \[\[Library\|([^\]]*)\]\]
 {{Card|Library|\1}}
-([^a-zA-Z])\[\[Market\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Market\]\]([^a-zA-Z’'`])
 \1{{Card|Market}}\2
-([a-zA-Z]*)\[\[Market\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Market\]\]([a-zA-Z’'`]*)
 {{Card|Market|\1Market\2}}
 \[\[Market\|([^\]]*)\]\]
 {{Card|Market|\1}}
-([^a-zA-Z])\[\[Mine\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Mine\]\]([^a-zA-Z’'`])
 \1{{Card|Mine}}\2
-([a-zA-Z]*)\[\[Mine\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Mine\]\]([a-zA-Z’'`]*)
 {{Card|Mine|\1Mine\2}}
 \[\[Mine\|([^\]]*)\]\]
 {{Card|Mine|\1}}
-([^a-zA-Z])\[\[Witch\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Witch\]\]([^a-zA-Z’'`])
 \1{{Card|Witch}}\2
-([a-zA-Z]*)\[\[Witch\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Witch\]\]([a-zA-Z’'`]*)
 {{Card|Witch|\1Witch\2}}
 \[\[Witch\|([^\]]*)\]\]
 {{Card|Witch|\1}}
-([^a-zA-Z])\[\[Adventurer\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Adventurer\]\]([^a-zA-Z’'`])
 \1{{Card|Adventurer}}\2
-([a-zA-Z]*)\[\[Adventurer\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Adventurer\]\]([a-zA-Z’'`]*)
 {{Card|Adventurer|\1Adventurer\2}}
 \[\[Adventurer\|([^\]]*)\]\]
 {{Card|Adventurer|\1}}
-([^a-zA-Z])\[\[Courtyard\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Courtyard\]\]([^a-zA-Z’'`])
 \1{{Card|Courtyard}}\2
-([a-zA-Z]*)\[\[Courtyard\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Courtyard\]\]([a-zA-Z’'`]*)
 {{Card|Courtyard|\1Courtyard\2}}
 \[\[Courtyard\|([^\]]*)\]\]
 {{Card|Courtyard|\1}}
-([^a-zA-Z])\[\[Pawn\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Pawn\]\]([^a-zA-Z’'`])
 \1{{Card|Pawn}}\2
-([a-zA-Z]*)\[\[Pawn\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Pawn\]\]([a-zA-Z’'`]*)
 {{Card|Pawn|\1Pawn\2}}
 \[\[Pawn\|([^\]]*)\]\]
 {{Card|Pawn|\1}}
-([^a-zA-Z])\[\[Secret Chamber\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Secret Chamber\]\]([^a-zA-Z’'`])
 \1{{Card|Secret Chamber}}\2
-([a-zA-Z]*)\[\[Secret Chamber\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Secret Chamber\]\]([a-zA-Z’'`]*)
 {{Card|Secret Chamber|\1Secret Chamber\2}}
 \[\[Secret Chamber\|([^\]]*)\]\]
 {{Card|Secret Chamber|\1}}
-([^a-zA-Z])\[\[Great Hall\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Great Hall\]\]([^a-zA-Z’'`])
 \1{{Card|Great Hall}}\2
-([a-zA-Z]*)\[\[Great Hall\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Great Hall\]\]([a-zA-Z’'`]*)
 {{Card|Great Hall|\1Great Hall\2}}
 \[\[Great Hall\|([^\]]*)\]\]
 {{Card|Great Hall|\1}}
-([^a-zA-Z])\[\[Masquerade\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Masquerade\]\]([^a-zA-Z’'`])
 \1{{Card|Masquerade}}\2
-([a-zA-Z]*)\[\[Masquerade\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Masquerade\]\]([a-zA-Z’'`]*)
 {{Card|Masquerade|\1Masquerade\2}}
 \[\[Masquerade\|([^\]]*)\]\]
 {{Card|Masquerade|\1}}
-([^a-zA-Z])\[\[Shanty Town\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Shanty Town\]\]([^a-zA-Z’'`])
 \1{{Card|Shanty Town}}\2
-([a-zA-Z]*)\[\[Shanty Town\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Shanty Town\]\]([a-zA-Z’'`]*)
 {{Card|Shanty Town|\1Shanty Town\2}}
 \[\[Shanty Town\|([^\]]*)\]\]
 {{Card|Shanty Town|\1}}
-([^a-zA-Z])\[\[Steward\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Steward\]\]([^a-zA-Z’'`])
 \1{{Card|Steward}}\2
-([a-zA-Z]*)\[\[Steward\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Steward\]\]([a-zA-Z’'`]*)
 {{Card|Steward|\1Steward\2}}
 \[\[Steward\|([^\]]*)\]\]
 {{Card|Steward|\1}}
-([^a-zA-Z])\[\[Swindler\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Swindler\]\]([^a-zA-Z’'`])
 \1{{Card|Swindler}}\2
-([a-zA-Z]*)\[\[Swindler\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Swindler\]\]([a-zA-Z’'`]*)
 {{Card|Swindler|\1Swindler\2}}
 \[\[Swindler\|([^\]]*)\]\]
 {{Card|Swindler|\1}}
-([^a-zA-Z])\[\[Wishing Well\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Wishing Well\]\]([^a-zA-Z’'`])
 \1{{Card|Wishing Well}}\2
-([a-zA-Z]*)\[\[Wishing Well\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Wishing Well\]\]([a-zA-Z’'`]*)
 {{Card|Wishing Well|\1Wishing Well\2}}
 \[\[Wishing Well\|([^\]]*)\]\]
 {{Card|Wishing Well|\1}}
-([^a-zA-Z])\[\[Baron\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Baron\]\]([^a-zA-Z’'`])
 \1{{Card|Baron}}\2
-([a-zA-Z]*)\[\[Baron\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Baron\]\]([a-zA-Z’'`]*)
 {{Card|Baron|\1Baron\2}}
 \[\[Baron\|([^\]]*)\]\]
 {{Card|Baron|\1}}
-([^a-zA-Z])\[\[Bridge\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Bridge\]\]([^a-zA-Z’'`])
 \1{{Card|Bridge}}\2
-([a-zA-Z]*)\[\[Bridge\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Bridge\]\]([a-zA-Z’'`]*)
 {{Card|Bridge|\1Bridge\2}}
 \[\[Bridge\|([^\]]*)\]\]
 {{Card|Bridge|\1}}
-([^a-zA-Z])\[\[Conspirator\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Conspirator\]\]([^a-zA-Z’'`])
 \1{{Card|Conspirator}}\2
-([a-zA-Z]*)\[\[Conspirator\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Conspirator\]\]([a-zA-Z’'`]*)
 {{Card|Conspirator|\1Conspirator\2}}
 \[\[Conspirator\|([^\]]*)\]\]
 {{Card|Conspirator|\1}}
-([^a-zA-Z])\[\[Coppersmith\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Coppersmith\]\]([^a-zA-Z’'`])
 \1{{Card|Coppersmith}}\2
-([a-zA-Z]*)\[\[Coppersmith\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Coppersmith\]\]([a-zA-Z’'`]*)
 {{Card|Coppersmith|\1Coppersmith\2}}
 \[\[Coppersmith\|([^\]]*)\]\]
 {{Card|Coppersmith|\1}}
-([^a-zA-Z])\[\[Ironworks\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Ironworks\]\]([^a-zA-Z’'`])
 \1{{Card|Ironworks}}\2
-([a-zA-Z]*)\[\[Ironworks\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Ironworks\]\]([a-zA-Z’'`]*)
 {{Card|Ironworks|\1Ironworks\2}}
 \[\[Ironworks\|([^\]]*)\]\]
 {{Card|Ironworks|\1}}
-([^a-zA-Z])\[\[Mining Village\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Mining Village\]\]([^a-zA-Z’'`])
 \1{{Card|Mining Village}}\2
-([a-zA-Z]*)\[\[Mining Village\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Mining Village\]\]([a-zA-Z’'`]*)
 {{Card|Mining Village|\1Mining Village\2}}
 \[\[Mining Village\|([^\]]*)\]\]
 {{Card|Mining Village|\1}}
-([^a-zA-Z])\[\[Scout\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Scout\]\]([^a-zA-Z’'`])
 \1{{Card|Scout}}\2
-([a-zA-Z]*)\[\[Scout\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Scout\]\]([a-zA-Z’'`]*)
 {{Card|Scout|\1Scout\2}}
 \[\[Scout\|([^\]]*)\]\]
 {{Card|Scout|\1}}
-([^a-zA-Z])\[\[Duke\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Duke\]\]([^a-zA-Z’'`])
 \1{{Card|Duke}}\2
-([a-zA-Z]*)\[\[Duke\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Duke\]\]([a-zA-Z’'`]*)
 {{Card|Duke|\1Duke\2}}
 \[\[Duke\|([^\]]*)\]\]
 {{Card|Duke|\1}}
-([^a-zA-Z])\[\[Minion\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Minion\]\]([^a-zA-Z’'`])
 \1{{Card|Minion}}\2
-([a-zA-Z]*)\[\[Minion\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Minion\]\]([a-zA-Z’'`]*)
 {{Card|Minion|\1Minion\2}}
 \[\[Minion\|([^\]]*)\]\]
 {{Card|Minion|\1}}
-([^a-zA-Z])\[\[Saboteur\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Saboteur\]\]([^a-zA-Z’'`])
 \1{{Card|Saboteur}}\2
-([a-zA-Z]*)\[\[Saboteur\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Saboteur\]\]([a-zA-Z’'`]*)
 {{Card|Saboteur|\1Saboteur\2}}
 \[\[Saboteur\|([^\]]*)\]\]
 {{Card|Saboteur|\1}}
-([^a-zA-Z])\[\[Torturer\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Torturer\]\]([^a-zA-Z’'`])
 \1{{Card|Torturer}}\2
-([a-zA-Z]*)\[\[Torturer\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Torturer\]\]([a-zA-Z’'`]*)
 {{Card|Torturer|\1Torturer\2}}
 \[\[Torturer\|([^\]]*)\]\]
 {{Card|Torturer|\1}}
-([^a-zA-Z])\[\[Trading Post\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Trading Post\]\]([^a-zA-Z’'`])
 \1{{Card|Trading Post}}\2
-([a-zA-Z]*)\[\[Trading Post\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Trading Post\]\]([a-zA-Z’'`]*)
 {{Card|Trading Post|\1Trading Post\2}}
 \[\[Trading Post\|([^\]]*)\]\]
 {{Card|Trading Post|\1}}
-([^a-zA-Z])\[\[Tribute\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Tribute\]\]([^a-zA-Z’'`])
 \1{{Card|Tribute}}\2
-([a-zA-Z]*)\[\[Tribute\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Tribute\]\]([a-zA-Z’'`]*)
 {{Card|Tribute|\1Tribute\2}}
 \[\[Tribute\|([^\]]*)\]\]
 {{Card|Tribute|\1}}
-([^a-zA-Z])\[\[Upgrade\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Upgrade\]\]([^a-zA-Z’'`])
 \1{{Card|Upgrade}}\2
-([a-zA-Z]*)\[\[Upgrade\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Upgrade\]\]([a-zA-Z’'`]*)
 {{Card|Upgrade|\1Upgrade\2}}
 \[\[Upgrade\|([^\]]*)\]\]
 {{Card|Upgrade|\1}}
-([^a-zA-Z])\[\[Harem\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Harem\]\]([^a-zA-Z’'`])
 \1{{Card|Harem}}\2
-([a-zA-Z]*)\[\[Harem\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Harem\]\]([a-zA-Z’'`]*)
 {{Card|Harem|\1Harem\2}}
 \[\[Harem\|([^\]]*)\]\]
 {{Card|Harem|\1}}
-([^a-zA-Z])\[\[Nobles\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Nobles\]\]([^a-zA-Z’'`])
 \1{{Card|Nobles}}\2
-([a-zA-Z]*)\[\[Nobles\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Nobles\]\]([a-zA-Z’'`]*)
 {{Card|Nobles|\1Nobles\2}}
 \[\[Nobles\|([^\]]*)\]\]
 {{Card|Nobles|\1}}
-([^a-zA-Z])\[\[Embargo\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Embargo\]\]([^a-zA-Z’'`])
 \1{{Card|Embargo}}\2
-([a-zA-Z]*)\[\[Embargo\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Embargo\]\]([a-zA-Z’'`]*)
 {{Card|Embargo|\1Embargo\2}}
 \[\[Embargo\|([^\]]*)\]\]
 {{Card|Embargo|\1}}
-([^a-zA-Z])\[\[Haven\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Haven\]\]([^a-zA-Z’'`])
 \1{{Card|Haven}}\2
-([a-zA-Z]*)\[\[Haven\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Haven\]\]([a-zA-Z’'`]*)
 {{Card|Haven|\1Haven\2}}
 \[\[Haven\|([^\]]*)\]\]
 {{Card|Haven|\1}}
-([^a-zA-Z])\[\[Lighthouse\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Lighthouse\]\]([^a-zA-Z’'`])
 \1{{Card|Lighthouse}}\2
-([a-zA-Z]*)\[\[Lighthouse\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Lighthouse\]\]([a-zA-Z’'`]*)
 {{Card|Lighthouse|\1Lighthouse\2}}
 \[\[Lighthouse\|([^\]]*)\]\]
 {{Card|Lighthouse|\1}}
-([^a-zA-Z])\[\[Native Village\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Native Village\]\]([^a-zA-Z’'`])
 \1{{Card|Native Village}}\2
-([a-zA-Z]*)\[\[Native Village\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Native Village\]\]([a-zA-Z’'`]*)
 {{Card|Native Village|\1Native Village\2}}
 \[\[Native Village\|([^\]]*)\]\]
 {{Card|Native Village|\1}}
-([^a-zA-Z])\[\[Pearl Diver\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Pearl Diver\]\]([^a-zA-Z’'`])
 \1{{Card|Pearl Diver}}\2
-([a-zA-Z]*)\[\[Pearl Diver\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Pearl Diver\]\]([a-zA-Z’'`]*)
 {{Card|Pearl Diver|\1Pearl Diver\2}}
 \[\[Pearl Diver\|([^\]]*)\]\]
 {{Card|Pearl Diver|\1}}
-([^a-zA-Z])\[\[Ambassador\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Ambassador\]\]([^a-zA-Z’'`])
 \1{{Card|Ambassador}}\2
-([a-zA-Z]*)\[\[Ambassador\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Ambassador\]\]([a-zA-Z’'`]*)
 {{Card|Ambassador|\1Ambassador\2}}
 \[\[Ambassador\|([^\]]*)\]\]
 {{Card|Ambassador|\1}}
-([^a-zA-Z])\[\[Fishing Village\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Fishing Village\]\]([^a-zA-Z’'`])
 \1{{Card|Fishing Village}}\2
-([a-zA-Z]*)\[\[Fishing Village\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Fishing Village\]\]([a-zA-Z’'`]*)
 {{Card|Fishing Village|\1Fishing Village\2}}
 \[\[Fishing Village\|([^\]]*)\]\]
 {{Card|Fishing Village|\1}}
-([^a-zA-Z])\[\[Lookout\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Lookout\]\]([^a-zA-Z’'`])
 \1{{Card|Lookout}}\2
-([a-zA-Z]*)\[\[Lookout\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Lookout\]\]([a-zA-Z’'`]*)
 {{Card|Lookout|\1Lookout\2}}
 \[\[Lookout\|([^\]]*)\]\]
 {{Card|Lookout|\1}}
-([^a-zA-Z])\[\[Smugglers\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Smugglers\]\]([^a-zA-Z’'`])
 \1{{Card|Smugglers}}\2
-([a-zA-Z]*)\[\[Smugglers\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Smugglers\]\]([a-zA-Z’'`]*)
 {{Card|Smugglers|\1Smugglers\2}}
 \[\[Smugglers\|([^\]]*)\]\]
 {{Card|Smugglers|\1}}
-([^a-zA-Z])\[\[Warehouse\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Warehouse\]\]([^a-zA-Z’'`])
 \1{{Card|Warehouse}}\2
-([a-zA-Z]*)\[\[Warehouse\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Warehouse\]\]([a-zA-Z’'`]*)
 {{Card|Warehouse|\1Warehouse\2}}
 \[\[Warehouse\|([^\]]*)\]\]
 {{Card|Warehouse|\1}}
-([^a-zA-Z])\[\[Caravan\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Caravan\]\]([^a-zA-Z’'`])
 \1{{Card|Caravan}}\2
-([a-zA-Z]*)\[\[Caravan\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Caravan\]\]([a-zA-Z’'`]*)
 {{Card|Caravan|\1Caravan\2}}
 \[\[Caravan\|([^\]]*)\]\]
 {{Card|Caravan|\1}}
-([^a-zA-Z])\[\[Cutpurse\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Cutpurse\]\]([^a-zA-Z’'`])
 \1{{Card|Cutpurse}}\2
-([a-zA-Z]*)\[\[Cutpurse\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Cutpurse\]\]([a-zA-Z’'`]*)
 {{Card|Cutpurse|\1Cutpurse\2}}
 \[\[Cutpurse\|([^\]]*)\]\]
 {{Card|Cutpurse|\1}}
-([^a-zA-Z])\[\[Island\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Island\]\]([^a-zA-Z’'`])
 \1{{Card|Island}}\2
-([a-zA-Z]*)\[\[Island\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Island\]\]([a-zA-Z’'`]*)
 {{Card|Island|\1Island\2}}
 \[\[Island\|([^\]]*)\]\]
 {{Card|Island|\1}}
-([^a-zA-Z])\[\[Navigator\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Navigator\]\]([^a-zA-Z’'`])
 \1{{Card|Navigator}}\2
-([a-zA-Z]*)\[\[Navigator\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Navigator\]\]([a-zA-Z’'`]*)
 {{Card|Navigator|\1Navigator\2}}
 \[\[Navigator\|([^\]]*)\]\]
 {{Card|Navigator|\1}}
-([^a-zA-Z])\[\[Pirate Ship\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Pirate Ship\]\]([^a-zA-Z’'`])
 \1{{Card|Pirate Ship}}\2
-([a-zA-Z]*)\[\[Pirate Ship\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Pirate Ship\]\]([a-zA-Z’'`]*)
 {{Card|Pirate Ship|\1Pirate Ship\2}}
 \[\[Pirate Ship\|([^\]]*)\]\]
 {{Card|Pirate Ship|\1}}
-([^a-zA-Z])\[\[Salvager\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Salvager\]\]([^a-zA-Z’'`])
 \1{{Card|Salvager}}\2
-([a-zA-Z]*)\[\[Salvager\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Salvager\]\]([a-zA-Z’'`]*)
 {{Card|Salvager|\1Salvager\2}}
 \[\[Salvager\|([^\]]*)\]\]
 {{Card|Salvager|\1}}
-([^a-zA-Z])\[\[Sea Hag\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Sea Hag\]\]([^a-zA-Z’'`])
 \1{{Card|Sea Hag}}\2
-([a-zA-Z]*)\[\[Sea Hag\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Sea Hag\]\]([a-zA-Z’'`]*)
 {{Card|Sea Hag|\1Sea Hag\2}}
 \[\[Sea Hag\|([^\]]*)\]\]
 {{Card|Sea Hag|\1}}
-([^a-zA-Z])\[\[Treasure Map\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Treasure Map\]\]([^a-zA-Z’'`])
 \1{{Card|Treasure Map}}\2
-([a-zA-Z]*)\[\[Treasure Map\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Treasure Map\]\]([a-zA-Z’'`]*)
 {{Card|Treasure Map|\1Treasure Map\2}}
 \[\[Treasure Map\|([^\]]*)\]\]
 {{Card|Treasure Map|\1}}
-([^a-zA-Z])\[\[Bazaar\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Bazaar\]\]([^a-zA-Z’'`])
 \1{{Card|Bazaar}}\2
-([a-zA-Z]*)\[\[Bazaar\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Bazaar\]\]([a-zA-Z’'`]*)
 {{Card|Bazaar|\1Bazaar\2}}
 \[\[Bazaar\|([^\]]*)\]\]
 {{Card|Bazaar|\1}}
-([^a-zA-Z])\[\[Explorer\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Explorer\]\]([^a-zA-Z’'`])
 \1{{Card|Explorer}}\2
-([a-zA-Z]*)\[\[Explorer\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Explorer\]\]([a-zA-Z’'`]*)
 {{Card|Explorer|\1Explorer\2}}
 \[\[Explorer\|([^\]]*)\]\]
 {{Card|Explorer|\1}}
-([^a-zA-Z])\[\[Ghost Ship\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Ghost Ship\]\]([^a-zA-Z’'`])
 \1{{Card|Ghost Ship}}\2
-([a-zA-Z]*)\[\[Ghost Ship\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Ghost Ship\]\]([a-zA-Z’'`]*)
 {{Card|Ghost Ship|\1Ghost Ship\2}}
 \[\[Ghost Ship\|([^\]]*)\]\]
 {{Card|Ghost Ship|\1}}
-([^a-zA-Z])\[\[Merchant Ship\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Merchant Ship\]\]([^a-zA-Z’'`])
 \1{{Card|Merchant Ship}}\2
-([a-zA-Z]*)\[\[Merchant Ship\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Merchant Ship\]\]([a-zA-Z’'`]*)
 {{Card|Merchant Ship|\1Merchant Ship\2}}
 \[\[Merchant Ship\|([^\]]*)\]\]
 {{Card|Merchant Ship|\1}}
-([^a-zA-Z])\[\[Outpost\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Outpost\]\]([^a-zA-Z’'`])
 \1{{Card|Outpost}}\2
-([a-zA-Z]*)\[\[Outpost\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Outpost\]\]([a-zA-Z’'`]*)
 {{Card|Outpost|\1Outpost\2}}
 \[\[Outpost\|([^\]]*)\]\]
 {{Card|Outpost|\1}}
-([^a-zA-Z])\[\[Tactician\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Tactician\]\]([^a-zA-Z’'`])
 \1{{Card|Tactician}}\2
-([a-zA-Z]*)\[\[Tactician\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Tactician\]\]([a-zA-Z’'`]*)
 {{Card|Tactician|\1Tactician\2}}
 \[\[Tactician\|([^\]]*)\]\]
 {{Card|Tactician|\1}}
-([^a-zA-Z])\[\[Treasury\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Treasury\]\]([^a-zA-Z’'`])
 \1{{Card|Treasury}}\2
-([a-zA-Z]*)\[\[Treasury\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Treasury\]\]([a-zA-Z’'`]*)
 {{Card|Treasury|\1Treasury\2}}
 \[\[Treasury\|([^\]]*)\]\]
 {{Card|Treasury|\1}}
-([^a-zA-Z])\[\[Wharf\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Wharf\]\]([^a-zA-Z’'`])
 \1{{Card|Wharf}}\2
-([a-zA-Z]*)\[\[Wharf\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Wharf\]\]([a-zA-Z’'`]*)
 {{Card|Wharf|\1Wharf\2}}
 \[\[Wharf\|([^\]]*)\]\]
 {{Card|Wharf|\1}}
-([^a-zA-Z])\[\[Herbalist\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Herbalist\]\]([^a-zA-Z’'`])
 \1{{Card|Herbalist}}\2
-([a-zA-Z]*)\[\[Herbalist\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Herbalist\]\]([a-zA-Z’'`]*)
 {{Card|Herbalist|\1Herbalist\2}}
 \[\[Herbalist\|([^\]]*)\]\]
 {{Card|Herbalist|\1}}
-([^a-zA-Z])\[\[Apprentice\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Apprentice\]\]([^a-zA-Z’'`])
 \1{{Card|Apprentice}}\2
-([a-zA-Z]*)\[\[Apprentice\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Apprentice\]\]([a-zA-Z’'`]*)
 {{Card|Apprentice|\1Apprentice\2}}
 \[\[Apprentice\|([^\]]*)\]\]
 {{Card|Apprentice|\1}}
-([^a-zA-Z])\[\[Transmute\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Transmute\]\]([^a-zA-Z’'`])
 \1{{Card|Transmute}}\2
-([a-zA-Z]*)\[\[Transmute\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Transmute\]\]([a-zA-Z’'`]*)
 {{Card|Transmute|\1Transmute\2}}
 \[\[Transmute\|([^\]]*)\]\]
 {{Card|Transmute|\1}}
-([^a-zA-Z])\[\[Vineyard\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Vineyard\]\]([^a-zA-Z’'`])
 \1{{Card|Vineyard}}\2
-([a-zA-Z]*)\[\[Vineyard\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Vineyard\]\]([a-zA-Z’'`]*)
 {{Card|Vineyard|\1Vineyard\2}}
 \[\[Vineyard\|([^\]]*)\]\]
 {{Card|Vineyard|\1}}
-([^a-zA-Z])\[\[Apothecary\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Apothecary\]\]([^a-zA-Z’'`])
 \1{{Card|Apothecary}}\2
-([a-zA-Z]*)\[\[Apothecary\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Apothecary\]\]([a-zA-Z’'`]*)
 {{Card|Apothecary|\1Apothecary\2}}
 \[\[Apothecary\|([^\]]*)\]\]
 {{Card|Apothecary|\1}}
-([^a-zA-Z])\[\[Scrying Pool\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Scrying Pool\]\]([^a-zA-Z’'`])
 \1{{Card|Scrying Pool}}\2
-([a-zA-Z]*)\[\[Scrying Pool\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Scrying Pool\]\]([a-zA-Z’'`]*)
 {{Card|Scrying Pool|\1Scrying Pool\2}}
 \[\[Scrying Pool\|([^\]]*)\]\]
 {{Card|Scrying Pool|\1}}
-([^a-zA-Z])\[\[University\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[University\]\]([^a-zA-Z’'`])
 \1{{Card|University}}\2
-([a-zA-Z]*)\[\[University\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[University\]\]([a-zA-Z’'`]*)
 {{Card|University|\1University\2}}
 \[\[University\|([^\]]*)\]\]
 {{Card|University|\1}}
-([^a-zA-Z])\[\[Alchemist\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Alchemist\]\]([^a-zA-Z’'`])
 \1{{Card|Alchemist}}\2
-([a-zA-Z]*)\[\[Alchemist\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Alchemist\]\]([a-zA-Z’'`]*)
 {{Card|Alchemist|\1Alchemist\2}}
 \[\[Alchemist\|([^\]]*)\]\]
 {{Card|Alchemist|\1}}
-([^a-zA-Z])\[\[Familiar\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Familiar\]\]([^a-zA-Z’'`])
 \1{{Card|Familiar}}\2
-([a-zA-Z]*)\[\[Familiar\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Familiar\]\]([a-zA-Z’'`]*)
 {{Card|Familiar|\1Familiar\2}}
 \[\[Familiar\|([^\]]*)\]\]
 {{Card|Familiar|\1}}
-([^a-zA-Z])\[\[Philosopher's Stone\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Philosopher's Stone\]\]([^a-zA-Z’'`])
 \1{{Card|Philosopher's Stone}}\2
-([a-zA-Z]*)\[\[Philosopher's Stone\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Philosopher's Stone\]\]([a-zA-Z’'`]*)
 {{Card|Philosopher's Stone|\1Philosopher's Stone\2}}
 \[\[Philosopher's Stone\|([^\]]*)\]\]
 {{Card|Philosopher's Stone|\1}}
-([^a-zA-Z])\[\[Golem\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Golem\]\]([^a-zA-Z’'`])
 \1{{Card|Golem}}\2
-([a-zA-Z]*)\[\[Golem\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Golem\]\]([a-zA-Z’'`]*)
 {{Card|Golem|\1Golem\2}}
 \[\[Golem\|([^\]]*)\]\]
 {{Card|Golem|\1}}
-([^a-zA-Z])\[\[Possession\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Possession\]\]([^a-zA-Z’'`])
 \1{{Card|Possession}}\2
-([a-zA-Z]*)\[\[Possession\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Possession\]\]([a-zA-Z’'`]*)
 {{Card|Possession|\1Possession\2}}
 \[\[Possession\|([^\]]*)\]\]
 {{Card|Possession|\1}}
-([^a-zA-Z])\[\[Loan\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Loan\]\]([^a-zA-Z’'`])
 \1{{Card|Loan}}\2
-([a-zA-Z]*)\[\[Loan\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Loan\]\]([a-zA-Z’'`]*)
 {{Card|Loan|\1Loan\2}}
 \[\[Loan\|([^\]]*)\]\]
 {{Card|Loan|\1}}
-([^a-zA-Z])\[\[Trade Route\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Trade Route\]\]([^a-zA-Z’'`])
 \1{{Card|Trade Route}}\2
-([a-zA-Z]*)\[\[Trade Route\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Trade Route\]\]([a-zA-Z’'`]*)
 {{Card|Trade Route|\1Trade Route\2}}
 \[\[Trade Route\|([^\]]*)\]\]
 {{Card|Trade Route|\1}}
-([^a-zA-Z])\[\[Watchtower\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Watchtower\]\]([^a-zA-Z’'`])
 \1{{Card|Watchtower}}\2
-([a-zA-Z]*)\[\[Watchtower\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Watchtower\]\]([a-zA-Z’'`]*)
 {{Card|Watchtower|\1Watchtower\2}}
 \[\[Watchtower\|([^\]]*)\]\]
 {{Card|Watchtower|\1}}
-([^a-zA-Z])\[\[Bishop\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Bishop\]\]([^a-zA-Z’'`])
 \1{{Card|Bishop}}\2
-([a-zA-Z]*)\[\[Bishop\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Bishop\]\]([a-zA-Z’'`]*)
 {{Card|Bishop|\1Bishop\2}}
 \[\[Bishop\|([^\]]*)\]\]
 {{Card|Bishop|\1}}
-([^a-zA-Z])\[\[Monument\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Monument\]\]([^a-zA-Z’'`])
 \1{{Card|Monument}}\2
-([a-zA-Z]*)\[\[Monument\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Monument\]\]([a-zA-Z’'`]*)
 {{Card|Monument|\1Monument\2}}
 \[\[Monument\|([^\]]*)\]\]
 {{Card|Monument|\1}}
-([^a-zA-Z])\[\[Quarry\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Quarry\]\]([^a-zA-Z’'`])
 \1{{Card|Quarry}}\2
-([a-zA-Z]*)\[\[Quarry\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Quarry\]\]([a-zA-Z’'`]*)
 {{Card|Quarry|\1Quarry\2}}
 \[\[Quarry\|([^\]]*)\]\]
 {{Card|Quarry|\1}}
-([^a-zA-Z])\[\[Talisman\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Talisman\]\]([^a-zA-Z’'`])
 \1{{Card|Talisman}}\2
-([a-zA-Z]*)\[\[Talisman\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Talisman\]\]([a-zA-Z’'`]*)
 {{Card|Talisman|\1Talisman\2}}
 \[\[Talisman\|([^\]]*)\]\]
 {{Card|Talisman|\1}}
-([^a-zA-Z])\[\[Worker's Village\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Worker's Village\]\]([^a-zA-Z’'`])
 \1{{Card|Worker's Village}}\2
-([a-zA-Z]*)\[\[Worker's Village\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Worker's Village\]\]([a-zA-Z’'`]*)
 {{Card|Worker's Village|\1Worker's Village\2}}
 \[\[Worker's Village\|([^\]]*)\]\]
 {{Card|Worker's Village|\1}}
-([^a-zA-Z])\[\[City\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[City\]\]([^a-zA-Z’'`])
 \1{{Card|City}}\2
-([a-zA-Z]*)\[\[City\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[City\]\]([a-zA-Z’'`]*)
 {{Card|City|\1City\2}}
 \[\[City\|([^\]]*)\]\]
 {{Card|City|\1}}
-([^a-zA-Z])\[\[Contraband\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Contraband\]\]([^a-zA-Z’'`])
 \1{{Card|Contraband}}\2
-([a-zA-Z]*)\[\[Contraband\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Contraband\]\]([a-zA-Z’'`]*)
 {{Card|Contraband|\1Contraband\2}}
 \[\[Contraband\|([^\]]*)\]\]
 {{Card|Contraband|\1}}
-([^a-zA-Z])\[\[Counting House\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Counting House\]\]([^a-zA-Z’'`])
 \1{{Card|Counting House}}\2
-([a-zA-Z]*)\[\[Counting House\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Counting House\]\]([a-zA-Z’'`]*)
 {{Card|Counting House|\1Counting House\2}}
 \[\[Counting House\|([^\]]*)\]\]
 {{Card|Counting House|\1}}
-([^a-zA-Z])\[\[Mint\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Mint\]\]([^a-zA-Z’'`])
 \1{{Card|Mint}}\2
-([a-zA-Z]*)\[\[Mint\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Mint\]\]([a-zA-Z’'`]*)
 {{Card|Mint|\1Mint\2}}
 \[\[Mint\|([^\]]*)\]\]
 {{Card|Mint|\1}}
-([^a-zA-Z])\[\[Mountebank\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Mountebank\]\]([^a-zA-Z’'`])
 \1{{Card|Mountebank}}\2
-([a-zA-Z]*)\[\[Mountebank\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Mountebank\]\]([a-zA-Z’'`]*)
 {{Card|Mountebank|\1Mountebank\2}}
 \[\[Mountebank\|([^\]]*)\]\]
 {{Card|Mountebank|\1}}
-([^a-zA-Z])\[\[Rabble\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Rabble\]\]([^a-zA-Z’'`])
 \1{{Card|Rabble}}\2
-([a-zA-Z]*)\[\[Rabble\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Rabble\]\]([a-zA-Z’'`]*)
 {{Card|Rabble|\1Rabble\2}}
 \[\[Rabble\|([^\]]*)\]\]
 {{Card|Rabble|\1}}
-([^a-zA-Z])\[\[Royal Seal\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Royal Seal\]\]([^a-zA-Z’'`])
 \1{{Card|Royal Seal}}\2
-([a-zA-Z]*)\[\[Royal Seal\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Royal Seal\]\]([a-zA-Z’'`]*)
 {{Card|Royal Seal|\1Royal Seal\2}}
 \[\[Royal Seal\|([^\]]*)\]\]
 {{Card|Royal Seal|\1}}
-([^a-zA-Z])\[\[Vault\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Vault\]\]([^a-zA-Z’'`])
 \1{{Card|Vault}}\2
-([a-zA-Z]*)\[\[Vault\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Vault\]\]([a-zA-Z’'`]*)
 {{Card|Vault|\1Vault\2}}
 \[\[Vault\|([^\]]*)\]\]
 {{Card|Vault|\1}}
-([^a-zA-Z])\[\[Venture\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Venture\]\]([^a-zA-Z’'`])
 \1{{Card|Venture}}\2
-([a-zA-Z]*)\[\[Venture\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Venture\]\]([a-zA-Z’'`]*)
 {{Card|Venture|\1Venture\2}}
 \[\[Venture\|([^\]]*)\]\]
 {{Card|Venture|\1}}
-([^a-zA-Z])\[\[Goons\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Goons\]\]([^a-zA-Z’'`])
 \1{{Card|Goons}}\2
-([a-zA-Z]*)\[\[Goons\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Goons\]\]([a-zA-Z’'`]*)
 {{Card|Goons|\1Goons\2}}
 \[\[Goons\|([^\]]*)\]\]
 {{Card|Goons|\1}}
-([^a-zA-Z])\[\[Grand Market\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Grand Market\]\]([^a-zA-Z’'`])
 \1{{Card|Grand Market}}\2
-([a-zA-Z]*)\[\[Grand Market\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Grand Market\]\]([a-zA-Z’'`]*)
 {{Card|Grand Market|\1Grand Market\2}}
 \[\[Grand Market\|([^\]]*)\]\]
 {{Card|Grand Market|\1}}
-([^a-zA-Z])\[\[Hoard\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Hoard\]\]([^a-zA-Z’'`])
 \1{{Card|Hoard}}\2
-([a-zA-Z]*)\[\[Hoard\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Hoard\]\]([a-zA-Z’'`]*)
 {{Card|Hoard|\1Hoard\2}}
 \[\[Hoard\|([^\]]*)\]\]
 {{Card|Hoard|\1}}
-([^a-zA-Z])\[\[Bank\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Bank\]\]([^a-zA-Z’'`])
 \1{{Card|Bank}}\2
-([a-zA-Z]*)\[\[Bank\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Bank\]\]([a-zA-Z’'`]*)
 {{Card|Bank|\1Bank\2}}
 \[\[Bank\|([^\]]*)\]\]
 {{Card|Bank|\1}}
-([^a-zA-Z])\[\[Expand\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Expand\]\]([^a-zA-Z’'`])
 \1{{Card|Expand}}\2
-([a-zA-Z]*)\[\[Expand\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Expand\]\]([a-zA-Z’'`]*)
 {{Card|Expand|\1Expand\2}}
 \[\[Expand\|([^\]]*)\]\]
 {{Card|Expand|\1}}
-([^a-zA-Z])\[\[Forge\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Forge\]\]([^a-zA-Z’'`])
 \1{{Card|Forge}}\2
-([a-zA-Z]*)\[\[Forge\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Forge\]\]([a-zA-Z’'`]*)
 {{Card|Forge|\1Forge\2}}
 \[\[Forge\|([^\]]*)\]\]
 {{Card|Forge|\1}}
-([^a-zA-Z])\[\[King's Court\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[King's Court\]\]([^a-zA-Z’'`])
 \1{{Card|King's Court}}\2
-([a-zA-Z]*)\[\[King's Court\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[King's Court\]\]([a-zA-Z’'`]*)
 {{Card|King's Court|\1King's Court\2}}
 \[\[King's Court\|([^\]]*)\]\]
 {{Card|King's Court|\1}}
-([^a-zA-Z])\[\[Peddler\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Peddler\]\]([^a-zA-Z’'`])
 \1{{Card|Peddler}}\2
-([a-zA-Z]*)\[\[Peddler\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Peddler\]\]([a-zA-Z’'`]*)
 {{Card|Peddler|\1Peddler\2}}
 \[\[Peddler\|([^\]]*)\]\]
 {{Card|Peddler|\1}}
-([^a-zA-Z])\[\[Hamlet\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Hamlet\]\]([^a-zA-Z’'`])
 \1{{Card|Hamlet}}\2
-([a-zA-Z]*)\[\[Hamlet\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Hamlet\]\]([a-zA-Z’'`]*)
 {{Card|Hamlet|\1Hamlet\2}}
 \[\[Hamlet\|([^\]]*)\]\]
 {{Card|Hamlet|\1}}
-([^a-zA-Z])\[\[Fortune Teller\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Fortune Teller\]\]([^a-zA-Z’'`])
 \1{{Card|Fortune Teller}}\2
-([a-zA-Z]*)\[\[Fortune Teller\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Fortune Teller\]\]([a-zA-Z’'`]*)
 {{Card|Fortune Teller|\1Fortune Teller\2}}
 \[\[Fortune Teller\|([^\]]*)\]\]
 {{Card|Fortune Teller|\1}}
-([^a-zA-Z])\[\[Menagerie\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Menagerie\]\]([^a-zA-Z’'`])
 \1{{Card|Menagerie}}\2
-([a-zA-Z]*)\[\[Menagerie\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Menagerie\]\]([a-zA-Z’'`]*)
 {{Card|Menagerie|\1Menagerie\2}}
 \[\[Menagerie\|([^\]]*)\]\]
 {{Card|Menagerie|\1}}
-([^a-zA-Z])\[\[Farming Village\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Farming Village\]\]([^a-zA-Z’'`])
 \1{{Card|Farming Village}}\2
-([a-zA-Z]*)\[\[Farming Village\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Farming Village\]\]([a-zA-Z’'`]*)
 {{Card|Farming Village|\1Farming Village\2}}
 \[\[Farming Village\|([^\]]*)\]\]
 {{Card|Farming Village|\1}}
-([^a-zA-Z])\[\[Horse Traders\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Horse Traders\]\]([^a-zA-Z’'`])
 \1{{Card|Horse Traders}}\2
-([a-zA-Z]*)\[\[Horse Traders\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Horse Traders\]\]([a-zA-Z’'`]*)
 {{Card|Horse Traders|\1Horse Traders\2}}
 \[\[Horse Traders\|([^\]]*)\]\]
 {{Card|Horse Traders|\1}}
-([^a-zA-Z])\[\[Remake\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Remake\]\]([^a-zA-Z’'`])
 \1{{Card|Remake}}\2
-([a-zA-Z]*)\[\[Remake\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Remake\]\]([a-zA-Z’'`]*)
 {{Card|Remake|\1Remake\2}}
 \[\[Remake\|([^\]]*)\]\]
 {{Card|Remake|\1}}
-([^a-zA-Z])\[\[Tournament\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Tournament\]\]([^a-zA-Z’'`])
 \1{{Card|Tournament}}\2
-([a-zA-Z]*)\[\[Tournament\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Tournament\]\]([a-zA-Z’'`]*)
 {{Card|Tournament|\1Tournament\2}}
 \[\[Tournament\|([^\]]*)\]\]
 {{Card|Tournament|\1}}
-([^a-zA-Z])\[\[Young Witch\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Young Witch\]\]([^a-zA-Z’'`])
 \1{{Card|Young Witch}}\2
-([a-zA-Z]*)\[\[Young Witch\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Young Witch\]\]([a-zA-Z’'`]*)
 {{Card|Young Witch|\1Young Witch\2}}
 \[\[Young Witch\|([^\]]*)\]\]
 {{Card|Young Witch|\1}}
-([^a-zA-Z])\[\[Harvest\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Harvest\]\]([^a-zA-Z’'`])
 \1{{Card|Harvest}}\2
-([a-zA-Z]*)\[\[Harvest\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Harvest\]\]([a-zA-Z’'`]*)
 {{Card|Harvest|\1Harvest\2}}
 \[\[Harvest\|([^\]]*)\]\]
 {{Card|Harvest|\1}}
-([^a-zA-Z])\[\[Horn of Plenty\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Horn of Plenty\]\]([^a-zA-Z’'`])
 \1{{Card|Horn of Plenty}}\2
-([a-zA-Z]*)\[\[Horn of Plenty\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Horn of Plenty\]\]([a-zA-Z’'`]*)
 {{Card|Horn of Plenty|\1Horn of Plenty\2}}
 \[\[Horn of Plenty\|([^\]]*)\]\]
 {{Card|Horn of Plenty|\1}}
-([^a-zA-Z])\[\[Hunting Party\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Hunting Party\]\]([^a-zA-Z’'`])
 \1{{Card|Hunting Party}}\2
-([a-zA-Z]*)\[\[Hunting Party\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Hunting Party\]\]([a-zA-Z’'`]*)
 {{Card|Hunting Party|\1Hunting Party\2}}
 \[\[Hunting Party\|([^\]]*)\]\]
 {{Card|Hunting Party|\1}}
-([^a-zA-Z])\[\[Jester\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Jester\]\]([^a-zA-Z’'`])
 \1{{Card|Jester}}\2
-([a-zA-Z]*)\[\[Jester\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Jester\]\]([a-zA-Z’'`]*)
 {{Card|Jester|\1Jester\2}}
 \[\[Jester\|([^\]]*)\]\]
 {{Card|Jester|\1}}
-([^a-zA-Z])\[\[Fairgrounds\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Fairgrounds\]\]([^a-zA-Z’'`])
 \1{{Card|Fairgrounds}}\2
-([a-zA-Z]*)\[\[Fairgrounds\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Fairgrounds\]\]([a-zA-Z’'`]*)
 {{Card|Fairgrounds|\1Fairgrounds\2}}
 \[\[Fairgrounds\|([^\]]*)\]\]
 {{Card|Fairgrounds|\1}}
-([^a-zA-Z])\[\[Crossroads\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Crossroads\]\]([^a-zA-Z’'`])
 \1{{Card|Crossroads}}\2
-([a-zA-Z]*)\[\[Crossroads\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Crossroads\]\]([a-zA-Z’'`]*)
 {{Card|Crossroads|\1Crossroads\2}}
 \[\[Crossroads\|([^\]]*)\]\]
 {{Card|Crossroads|\1}}
-([^a-zA-Z])\[\[Duchess\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Duchess\]\]([^a-zA-Z’'`])
 \1{{Card|Duchess}}\2
-([a-zA-Z]*)\[\[Duchess\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Duchess\]\]([a-zA-Z’'`]*)
 {{Card|Duchess|\1Duchess\2}}
 \[\[Duchess\|([^\]]*)\]\]
 {{Card|Duchess|\1}}
-([^a-zA-Z])\[\[Fool's Gold\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Fool's Gold\]\]([^a-zA-Z’'`])
 \1{{Card|Fool's Gold}}\2
-([a-zA-Z]*)\[\[Fool's Gold\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Fool's Gold\]\]([a-zA-Z’'`]*)
 {{Card|Fool's Gold|\1Fool's Gold\2}}
 \[\[Fool's Gold\|([^\]]*)\]\]
 {{Card|Fool's Gold|\1}}
-([^a-zA-Z])\[\[Develop\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Develop\]\]([^a-zA-Z’'`])
 \1{{Card|Develop}}\2
-([a-zA-Z]*)\[\[Develop\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Develop\]\]([a-zA-Z’'`]*)
 {{Card|Develop|\1Develop\2}}
 \[\[Develop\|([^\]]*)\]\]
 {{Card|Develop|\1}}
-([^a-zA-Z])\[\[Oasis\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Oasis\]\]([^a-zA-Z’'`])
 \1{{Card|Oasis}}\2
-([a-zA-Z]*)\[\[Oasis\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Oasis\]\]([a-zA-Z’'`]*)
 {{Card|Oasis|\1Oasis\2}}
 \[\[Oasis\|([^\]]*)\]\]
 {{Card|Oasis|\1}}
-([^a-zA-Z])\[\[Oracle\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Oracle\]\]([^a-zA-Z’'`])
 \1{{Card|Oracle}}\2
-([a-zA-Z]*)\[\[Oracle\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Oracle\]\]([a-zA-Z’'`]*)
 {{Card|Oracle|\1Oracle\2}}
 \[\[Oracle\|([^\]]*)\]\]
 {{Card|Oracle|\1}}
-([^a-zA-Z])\[\[Scheme\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Scheme\]\]([^a-zA-Z’'`])
 \1{{Card|Scheme}}\2
-([a-zA-Z]*)\[\[Scheme\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Scheme\]\]([a-zA-Z’'`]*)
 {{Card|Scheme|\1Scheme\2}}
 \[\[Scheme\|([^\]]*)\]\]
 {{Card|Scheme|\1}}
-([^a-zA-Z])\[\[Tunnel\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Tunnel\]\]([^a-zA-Z’'`])
 \1{{Card|Tunnel}}\2
-([a-zA-Z]*)\[\[Tunnel\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Tunnel\]\]([a-zA-Z’'`]*)
 {{Card|Tunnel|\1Tunnel\2}}
 \[\[Tunnel\|([^\]]*)\]\]
 {{Card|Tunnel|\1}}
-([^a-zA-Z])\[\[Jack of all Trades\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Jack of all Trades\]\]([^a-zA-Z’'`])
 \1{{Card|Jack of all Trades}}\2
-([a-zA-Z]*)\[\[Jack of all Trades\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Jack of all Trades\]\]([a-zA-Z’'`]*)
 {{Card|Jack of all Trades|\1Jack of all Trades\2}}
 \[\[Jack of all Trades\|([^\]]*)\]\]
 {{Card|Jack of all Trades|\1}}
-([^a-zA-Z])\[\[Noble Brigand\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Noble Brigand\]\]([^a-zA-Z’'`])
 \1{{Card|Noble Brigand}}\2
-([a-zA-Z]*)\[\[Noble Brigand\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Noble Brigand\]\]([a-zA-Z’'`]*)
 {{Card|Noble Brigand|\1Noble Brigand\2}}
 \[\[Noble Brigand\|([^\]]*)\]\]
 {{Card|Noble Brigand|\1}}
-([^a-zA-Z])\[\[Nomad Camp\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Nomad Camp\]\]([^a-zA-Z’'`])
 \1{{Card|Nomad Camp}}\2
-([a-zA-Z]*)\[\[Nomad Camp\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Nomad Camp\]\]([a-zA-Z’'`]*)
 {{Card|Nomad Camp|\1Nomad Camp\2}}
 \[\[Nomad Camp\|([^\]]*)\]\]
 {{Card|Nomad Camp|\1}}
-([^a-zA-Z])\[\[Silk Road\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Silk Road\]\]([^a-zA-Z’'`])
 \1{{Card|Silk Road}}\2
-([a-zA-Z]*)\[\[Silk Road\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Silk Road\]\]([a-zA-Z’'`]*)
 {{Card|Silk Road|\1Silk Road\2}}
 \[\[Silk Road\|([^\]]*)\]\]
 {{Card|Silk Road|\1}}
-([^a-zA-Z])\[\[Spice Merchant\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Spice Merchant\]\]([^a-zA-Z’'`])
 \1{{Card|Spice Merchant}}\2
-([a-zA-Z]*)\[\[Spice Merchant\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Spice Merchant\]\]([a-zA-Z’'`]*)
 {{Card|Spice Merchant|\1Spice Merchant\2}}
 \[\[Spice Merchant\|([^\]]*)\]\]
 {{Card|Spice Merchant|\1}}
-([^a-zA-Z])\[\[Trader\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Trader\]\]([^a-zA-Z’'`])
 \1{{Card|Trader}}\2
-([a-zA-Z]*)\[\[Trader\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Trader\]\]([a-zA-Z’'`]*)
 {{Card|Trader|\1Trader\2}}
 \[\[Trader\|([^\]]*)\]\]
 {{Card|Trader|\1}}
-([^a-zA-Z])\[\[Cache\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Cache\]\]([^a-zA-Z’'`])
 \1{{Card|Cache}}\2
-([a-zA-Z]*)\[\[Cache\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Cache\]\]([a-zA-Z’'`]*)
 {{Card|Cache|\1Cache\2}}
 \[\[Cache\|([^\]]*)\]\]
 {{Card|Cache|\1}}
-([^a-zA-Z])\[\[Cartographer\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Cartographer\]\]([^a-zA-Z’'`])
 \1{{Card|Cartographer}}\2
-([a-zA-Z]*)\[\[Cartographer\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Cartographer\]\]([a-zA-Z’'`]*)
 {{Card|Cartographer|\1Cartographer\2}}
 \[\[Cartographer\|([^\]]*)\]\]
 {{Card|Cartographer|\1}}
-([^a-zA-Z])\[\[Embassy\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Embassy\]\]([^a-zA-Z’'`])
 \1{{Card|Embassy}}\2
-([a-zA-Z]*)\[\[Embassy\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Embassy\]\]([a-zA-Z’'`]*)
 {{Card|Embassy|\1Embassy\2}}
 \[\[Embassy\|([^\]]*)\]\]
 {{Card|Embassy|\1}}
-([^a-zA-Z])\[\[Haggler\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Haggler\]\]([^a-zA-Z’'`])
 \1{{Card|Haggler}}\2
-([a-zA-Z]*)\[\[Haggler\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Haggler\]\]([a-zA-Z’'`]*)
 {{Card|Haggler|\1Haggler\2}}
 \[\[Haggler\|([^\]]*)\]\]
 {{Card|Haggler|\1}}
-([^a-zA-Z])\[\[Highway\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Highway\]\]([^a-zA-Z’'`])
 \1{{Card|Highway}}\2
-([a-zA-Z]*)\[\[Highway\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Highway\]\]([a-zA-Z’'`]*)
 {{Card|Highway|\1Highway\2}}
 \[\[Highway\|([^\]]*)\]\]
 {{Card|Highway|\1}}
-([^a-zA-Z])\[\[Ill-Gotten Gains\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Ill-Gotten Gains\]\]([^a-zA-Z’'`])
 \1{{Card|Ill-Gotten Gains}}\2
-([a-zA-Z]*)\[\[Ill-Gotten Gains\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Ill-Gotten Gains\]\]([a-zA-Z’'`]*)
 {{Card|Ill-Gotten Gains|\1Ill-Gotten Gains\2}}
 \[\[Ill-Gotten Gains\|([^\]]*)\]\]
 {{Card|Ill-Gotten Gains|\1}}
-([^a-zA-Z])\[\[Inn\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Inn\]\]([^a-zA-Z’'`])
 \1{{Card|Inn}}\2
-([a-zA-Z]*)\[\[Inn\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Inn\]\]([a-zA-Z’'`]*)
 {{Card|Inn|\1Inn\2}}
 \[\[Inn\|([^\]]*)\]\]
 {{Card|Inn|\1}}
-([^a-zA-Z])\[\[Mandarin\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Mandarin\]\]([^a-zA-Z’'`])
 \1{{Card|Mandarin}}\2
-([a-zA-Z]*)\[\[Mandarin\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Mandarin\]\]([a-zA-Z’'`]*)
 {{Card|Mandarin|\1Mandarin\2}}
 \[\[Mandarin\|([^\]]*)\]\]
 {{Card|Mandarin|\1}}
-([^a-zA-Z])\[\[Margrave\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Margrave\]\]([^a-zA-Z’'`])
 \1{{Card|Margrave}}\2
-([a-zA-Z]*)\[\[Margrave\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Margrave\]\]([a-zA-Z’'`]*)
 {{Card|Margrave|\1Margrave\2}}
 \[\[Margrave\|([^\]]*)\]\]
 {{Card|Margrave|\1}}
-([^a-zA-Z])\[\[Stables\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Stables\]\]([^a-zA-Z’'`])
 \1{{Card|Stables}}\2
-([a-zA-Z]*)\[\[Stables\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Stables\]\]([a-zA-Z’'`]*)
 {{Card|Stables|\1Stables\2}}
 \[\[Stables\|([^\]]*)\]\]
 {{Card|Stables|\1}}
-([^a-zA-Z])\[\[Border Village\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Border Village\]\]([^a-zA-Z’'`])
 \1{{Card|Border Village}}\2
-([a-zA-Z]*)\[\[Border Village\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Border Village\]\]([a-zA-Z’'`]*)
 {{Card|Border Village|\1Border Village\2}}
 \[\[Border Village\|([^\]]*)\]\]
 {{Card|Border Village|\1}}
-([^a-zA-Z])\[\[Farmland\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Farmland\]\]([^a-zA-Z’'`])
 \1{{Card|Farmland}}\2
-([a-zA-Z]*)\[\[Farmland\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Farmland\]\]([a-zA-Z’'`]*)
 {{Card|Farmland|\1Farmland\2}}
 \[\[Farmland\|([^\]]*)\]\]
 {{Card|Farmland|\1}}
-([^a-zA-Z])\[\[Poor House\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Poor House\]\]([^a-zA-Z’'`])
 \1{{Card|Poor House}}\2
-([a-zA-Z]*)\[\[Poor House\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Poor House\]\]([a-zA-Z’'`]*)
 {{Card|Poor House|\1Poor House\2}}
 \[\[Poor House\|([^\]]*)\]\]
 {{Card|Poor House|\1}}
-([^a-zA-Z])\[\[Beggar\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Beggar\]\]([^a-zA-Z’'`])
 \1{{Card|Beggar}}\2
-([a-zA-Z]*)\[\[Beggar\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Beggar\]\]([a-zA-Z’'`]*)
 {{Card|Beggar|\1Beggar\2}}
 \[\[Beggar\|([^\]]*)\]\]
 {{Card|Beggar|\1}}
-([^a-zA-Z])\[\[Squire\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Squire\]\]([^a-zA-Z’'`])
 \1{{Card|Squire}}\2
-([a-zA-Z]*)\[\[Squire\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Squire\]\]([a-zA-Z’'`]*)
 {{Card|Squire|\1Squire\2}}
 \[\[Squire\|([^\]]*)\]\]
 {{Card|Squire|\1}}
-([^a-zA-Z])\[\[Vagrant\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Vagrant\]\]([^a-zA-Z’'`])
 \1{{Card|Vagrant}}\2
-([a-zA-Z]*)\[\[Vagrant\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Vagrant\]\]([a-zA-Z’'`]*)
 {{Card|Vagrant|\1Vagrant\2}}
 \[\[Vagrant\|([^\]]*)\]\]
 {{Card|Vagrant|\1}}
-([^a-zA-Z])\[\[Forager\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Forager\]\]([^a-zA-Z’'`])
 \1{{Card|Forager}}\2
-([a-zA-Z]*)\[\[Forager\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Forager\]\]([a-zA-Z’'`]*)
 {{Card|Forager|\1Forager\2}}
 \[\[Forager\|([^\]]*)\]\]
 {{Card|Forager|\1}}
-([^a-zA-Z])\[\[Hermit\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Hermit\]\]([^a-zA-Z’'`])
 \1{{Card|Hermit}}\2
-([a-zA-Z]*)\[\[Hermit\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Hermit\]\]([a-zA-Z’'`]*)
 {{Card|Hermit|\1Hermit\2}}
 \[\[Hermit\|([^\]]*)\]\]
 {{Card|Hermit|\1}}
-([^a-zA-Z])\[\[Madman\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Madman\]\]([^a-zA-Z’'`])
 \1{{Card|Madman}}\2
-([a-zA-Z]*)\[\[Madman\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Madman\]\]([a-zA-Z’'`]*)
 {{Card|Madman|\1Madman\2}}
 \[\[Madman\|([^\]]*)\]\]
 {{Card|Madman|\1}}
-([^a-zA-Z])\[\[Market Square\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Market Square\]\]([^a-zA-Z’'`])
 \1{{Card|Market Square}}\2
-([a-zA-Z]*)\[\[Market Square\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Market Square\]\]([a-zA-Z’'`]*)
 {{Card|Market Square|\1Market Square\2}}
 \[\[Market Square\|([^\]]*)\]\]
 {{Card|Market Square|\1}}
-([^a-zA-Z])\[\[Sage\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Sage\]\]([^a-zA-Z’'`])
 \1{{Card|Sage}}\2
-([a-zA-Z]*)\[\[Sage\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Sage\]\]([a-zA-Z’'`]*)
 {{Card|Sage|\1Sage\2}}
 \[\[Sage\|([^\]]*)\]\]
 {{Card|Sage|\1}}
-([^a-zA-Z])\[\[Storeroom\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Storeroom\]\]([^a-zA-Z’'`])
 \1{{Card|Storeroom}}\2
-([a-zA-Z]*)\[\[Storeroom\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Storeroom\]\]([a-zA-Z’'`]*)
 {{Card|Storeroom|\1Storeroom\2}}
 \[\[Storeroom\|([^\]]*)\]\]
 {{Card|Storeroom|\1}}
-([^a-zA-Z])\[\[Urchin\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Urchin\]\]([^a-zA-Z’'`])
 \1{{Card|Urchin}}\2
-([a-zA-Z]*)\[\[Urchin\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Urchin\]\]([a-zA-Z’'`]*)
 {{Card|Urchin|\1Urchin\2}}
 \[\[Urchin\|([^\]]*)\]\]
 {{Card|Urchin|\1}}
-([^a-zA-Z])\[\[Mercenary\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Mercenary\]\]([^a-zA-Z’'`])
 \1{{Card|Mercenary}}\2
-([a-zA-Z]*)\[\[Mercenary\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Mercenary\]\]([a-zA-Z’'`]*)
 {{Card|Mercenary|\1Mercenary\2}}
 \[\[Mercenary\|([^\]]*)\]\]
 {{Card|Mercenary|\1}}
-([^a-zA-Z])\[\[Armory\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Armory\]\]([^a-zA-Z’'`])
 \1{{Card|Armory}}\2
-([a-zA-Z]*)\[\[Armory\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Armory\]\]([a-zA-Z’'`]*)
 {{Card|Armory|\1Armory\2}}
 \[\[Armory\|([^\]]*)\]\]
 {{Card|Armory|\1}}
-([^a-zA-Z])\[\[Death Cart\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Death Cart\]\]([^a-zA-Z’'`])
 \1{{Card|Death Cart}}\2
-([a-zA-Z]*)\[\[Death Cart\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Death Cart\]\]([a-zA-Z’'`]*)
 {{Card|Death Cart|\1Death Cart\2}}
 \[\[Death Cart\|([^\]]*)\]\]
 {{Card|Death Cart|\1}}
-([^a-zA-Z])\[\[Feodum\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Feodum\]\]([^a-zA-Z’'`])
 \1{{Card|Feodum}}\2
-([a-zA-Z]*)\[\[Feodum\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Feodum\]\]([a-zA-Z’'`]*)
 {{Card|Feodum|\1Feodum\2}}
 \[\[Feodum\|([^\]]*)\]\]
 {{Card|Feodum|\1}}
-([^a-zA-Z])\[\[Fortress\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Fortress\]\]([^a-zA-Z’'`])
 \1{{Card|Fortress}}\2
-([a-zA-Z]*)\[\[Fortress\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Fortress\]\]([a-zA-Z’'`]*)
 {{Card|Fortress|\1Fortress\2}}
 \[\[Fortress\|([^\]]*)\]\]
 {{Card|Fortress|\1}}
-([^a-zA-Z])\[\[Ironmonger\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Ironmonger\]\]([^a-zA-Z’'`])
 \1{{Card|Ironmonger}}\2
-([a-zA-Z]*)\[\[Ironmonger\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Ironmonger\]\]([a-zA-Z’'`]*)
 {{Card|Ironmonger|\1Ironmonger\2}}
 \[\[Ironmonger\|([^\]]*)\]\]
 {{Card|Ironmonger|\1}}
-([^a-zA-Z])\[\[Marauder\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Marauder\]\]([^a-zA-Z’'`])
 \1{{Card|Marauder}}\2
-([a-zA-Z]*)\[\[Marauder\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Marauder\]\]([a-zA-Z’'`]*)
 {{Card|Marauder|\1Marauder\2}}
 \[\[Marauder\|([^\]]*)\]\]
 {{Card|Marauder|\1}}
-([^a-zA-Z])\[\[Procession\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Procession\]\]([^a-zA-Z’'`])
 \1{{Card|Procession}}\2
-([a-zA-Z]*)\[\[Procession\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Procession\]\]([a-zA-Z’'`]*)
 {{Card|Procession|\1Procession\2}}
 \[\[Procession\|([^\]]*)\]\]
 {{Card|Procession|\1}}
-([^a-zA-Z])\[\[Rats\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Rats\]\]([^a-zA-Z’'`])
 \1{{Card|Rats}}\2
-([a-zA-Z]*)\[\[Rats\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Rats\]\]([a-zA-Z’'`]*)
 {{Card|Rats|\1Rats\2}}
 \[\[Rats\|([^\]]*)\]\]
 {{Card|Rats|\1}}
-([^a-zA-Z])\[\[Scavenger\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Scavenger\]\]([^a-zA-Z’'`])
 \1{{Card|Scavenger}}\2
-([a-zA-Z]*)\[\[Scavenger\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Scavenger\]\]([a-zA-Z’'`]*)
 {{Card|Scavenger|\1Scavenger\2}}
 \[\[Scavenger\|([^\]]*)\]\]
 {{Card|Scavenger|\1}}
-([^a-zA-Z])\[\[Wandering Minstrel\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Wandering Minstrel\]\]([^a-zA-Z’'`])
 \1{{Card|Wandering Minstrel}}\2
-([a-zA-Z]*)\[\[Wandering Minstrel\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Wandering Minstrel\]\]([a-zA-Z’'`]*)
 {{Card|Wandering Minstrel|\1Wandering Minstrel\2}}
 \[\[Wandering Minstrel\|([^\]]*)\]\]
 {{Card|Wandering Minstrel|\1}}
-([^a-zA-Z])\[\[Band of Misfits\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Band of Misfits\]\]([^a-zA-Z’'`])
 \1{{Card|Band of Misfits}}\2
-([a-zA-Z]*)\[\[Band of Misfits\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Band of Misfits\]\]([a-zA-Z’'`]*)
 {{Card|Band of Misfits|\1Band of Misfits\2}}
 \[\[Band of Misfits\|([^\]]*)\]\]
 {{Card|Band of Misfits|\1}}
-([^a-zA-Z])\[\[Bandit Camp\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Bandit Camp\]\]([^a-zA-Z’'`])
 \1{{Card|Bandit Camp}}\2
-([a-zA-Z]*)\[\[Bandit Camp\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Bandit Camp\]\]([a-zA-Z’'`]*)
 {{Card|Bandit Camp|\1Bandit Camp\2}}
 \[\[Bandit Camp\|([^\]]*)\]\]
 {{Card|Bandit Camp|\1}}
-([^a-zA-Z])\[\[Catacombs\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Catacombs\]\]([^a-zA-Z’'`])
 \1{{Card|Catacombs}}\2
-([a-zA-Z]*)\[\[Catacombs\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Catacombs\]\]([a-zA-Z’'`]*)
 {{Card|Catacombs|\1Catacombs\2}}
 \[\[Catacombs\|([^\]]*)\]\]
 {{Card|Catacombs|\1}}
-([^a-zA-Z])\[\[Count\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Count\]\]([^a-zA-Z’'`])
 \1{{Card|Count}}\2
-([a-zA-Z]*)\[\[Count\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Count\]\]([a-zA-Z’'`]*)
 {{Card|Count|\1Count\2}}
 \[\[Count\|([^\]]*)\]\]
 {{Card|Count|\1}}
-([^a-zA-Z])\[\[Counterfeit\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Counterfeit\]\]([^a-zA-Z’'`])
 \1{{Card|Counterfeit}}\2
-([a-zA-Z]*)\[\[Counterfeit\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Counterfeit\]\]([a-zA-Z’'`]*)
 {{Card|Counterfeit|\1Counterfeit\2}}
 \[\[Counterfeit\|([^\]]*)\]\]
 {{Card|Counterfeit|\1}}
-([^a-zA-Z])\[\[Cultist\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Cultist\]\]([^a-zA-Z’'`])
 \1{{Card|Cultist}}\2
-([a-zA-Z]*)\[\[Cultist\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Cultist\]\]([a-zA-Z’'`]*)
 {{Card|Cultist|\1Cultist\2}}
 \[\[Cultist\|([^\]]*)\]\]
 {{Card|Cultist|\1}}
-([^a-zA-Z])\[\[Graverobber\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Graverobber\]\]([^a-zA-Z’'`])
 \1{{Card|Graverobber}}\2
-([a-zA-Z]*)\[\[Graverobber\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Graverobber\]\]([a-zA-Z’'`]*)
 {{Card|Graverobber|\1Graverobber\2}}
 \[\[Graverobber\|([^\]]*)\]\]
 {{Card|Graverobber|\1}}
-([^a-zA-Z])\[\[Junk Dealer\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Junk Dealer\]\]([^a-zA-Z’'`])
 \1{{Card|Junk Dealer}}\2
-([a-zA-Z]*)\[\[Junk Dealer\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Junk Dealer\]\]([a-zA-Z’'`]*)
 {{Card|Junk Dealer|\1Junk Dealer\2}}
 \[\[Junk Dealer\|([^\]]*)\]\]
 {{Card|Junk Dealer|\1}}
-([^a-zA-Z])\[\[Mystic\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Mystic\]\]([^a-zA-Z’'`])
 \1{{Card|Mystic}}\2
-([a-zA-Z]*)\[\[Mystic\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Mystic\]\]([a-zA-Z’'`]*)
 {{Card|Mystic|\1Mystic\2}}
 \[\[Mystic\|([^\]]*)\]\]
 {{Card|Mystic|\1}}
-([^a-zA-Z])\[\[Pillage\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Pillage\]\]([^a-zA-Z’'`])
 \1{{Card|Pillage}}\2
-([a-zA-Z]*)\[\[Pillage\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Pillage\]\]([a-zA-Z’'`]*)
 {{Card|Pillage|\1Pillage\2}}
 \[\[Pillage\|([^\]]*)\]\]
 {{Card|Pillage|\1}}
-([^a-zA-Z])\[\[Rebuild\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Rebuild\]\]([^a-zA-Z’'`])
 \1{{Card|Rebuild}}\2
-([a-zA-Z]*)\[\[Rebuild\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Rebuild\]\]([a-zA-Z’'`]*)
 {{Card|Rebuild|\1Rebuild\2}}
 \[\[Rebuild\|([^\]]*)\]\]
 {{Card|Rebuild|\1}}
-([^a-zA-Z])\[\[Rogue\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Rogue\]\]([^a-zA-Z’'`])
 \1{{Card|Rogue}}\2
-([a-zA-Z]*)\[\[Rogue\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Rogue\]\]([a-zA-Z’'`]*)
 {{Card|Rogue|\1Rogue\2}}
 \[\[Rogue\|([^\]]*)\]\]
 {{Card|Rogue|\1}}
-([^a-zA-Z])\[\[Altar\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Altar\]\]([^a-zA-Z’'`])
 \1{{Card|Altar}}\2
-([a-zA-Z]*)\[\[Altar\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Altar\]\]([a-zA-Z’'`]*)
 {{Card|Altar|\1Altar\2}}
 \[\[Altar\|([^\]]*)\]\]
 {{Card|Altar|\1}}
-([^a-zA-Z])\[\[Hunting Grounds\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Hunting Grounds\]\]([^a-zA-Z’'`])
 \1{{Card|Hunting Grounds}}\2
-([a-zA-Z]*)\[\[Hunting Grounds\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Hunting Grounds\]\]([a-zA-Z’'`]*)
 {{Card|Hunting Grounds|\1Hunting Grounds\2}}
 \[\[Hunting Grounds\|([^\]]*)\]\]
 {{Card|Hunting Grounds|\1}}
-([^a-zA-Z])\[\[Black Market\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Black Market\]\]([^a-zA-Z’'`])
 \1{{Card|Black Market}}\2
-([a-zA-Z]*)\[\[Black Market\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Black Market\]\]([a-zA-Z’'`]*)
 {{Card|Black Market|\1Black Market\2}}
 \[\[Black Market\|([^\]]*)\]\]
 {{Card|Black Market|\1}}
-([^a-zA-Z])\[\[Envoy\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Envoy\]\]([^a-zA-Z’'`])
 \1{{Card|Envoy}}\2
-([a-zA-Z]*)\[\[Envoy\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Envoy\]\]([a-zA-Z’'`]*)
 {{Card|Envoy|\1Envoy\2}}
 \[\[Envoy\|([^\]]*)\]\]
 {{Card|Envoy|\1}}
-([^a-zA-Z])\[\[Walled Village\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Walled Village\]\]([^a-zA-Z’'`])
 \1{{Card|Walled Village}}\2
-([a-zA-Z]*)\[\[Walled Village\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Walled Village\]\]([a-zA-Z’'`]*)
 {{Card|Walled Village|\1Walled Village\2}}
 \[\[Walled Village\|([^\]]*)\]\]
 {{Card|Walled Village|\1}}
-([^a-zA-Z])\[\[Governor\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Governor\]\]([^a-zA-Z’'`])
 \1{{Card|Governor}}\2
-([a-zA-Z]*)\[\[Governor\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Governor\]\]([a-zA-Z’'`]*)
 {{Card|Governor|\1Governor\2}}
 \[\[Governor\|([^\]]*)\]\]
 {{Card|Governor|\1}}
-([^a-zA-Z])\[\[Stash\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Stash\]\]([^a-zA-Z’'`])
 \1{{Card|Stash}}\2
-([a-zA-Z]*)\[\[Stash\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Stash\]\]([a-zA-Z’'`]*)
 {{Card|Stash|\1Stash\2}}
 \[\[Stash\|([^\]]*)\]\]
 {{Card|Stash|\1}}
-([^a-zA-Z])\[\[Copper\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Copper\]\]([^a-zA-Z’'`])
 \1{{Card|Copper}}\2
-([a-zA-Z]*)\[\[Copper\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Copper\]\]([a-zA-Z’'`]*)
 {{Card|Copper|\1Copper\2}}
 \[\[Copper\|([^\]]*)\]\]
 {{Card|Copper|\1}}
-([^a-zA-Z])\[\[Curse\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Curse\]\]([^a-zA-Z’'`])
 \1{{Card|Curse}}\2
-([a-zA-Z]*)\[\[Curse\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Curse\]\]([a-zA-Z’'`]*)
 {{Card|Curse|\1Curse\2}}
 \[\[Curse\|([^\]]*)\]\]
 {{Card|Curse|\1}}
-([^a-zA-Z])\[\[Spoils\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Spoils\]\]([^a-zA-Z’'`])
 \1{{Card|Spoils}}\2
-([a-zA-Z]*)\[\[Spoils\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Spoils\]\]([a-zA-Z’'`]*)
 {{Card|Spoils|\1Spoils\2}}
 \[\[Spoils\|([^\]]*)\]\]
 {{Card|Spoils|\1}}
-([^a-zA-Z])\[\[Estate\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Estate\]\]([^a-zA-Z’'`])
 \1{{Card|Estate}}\2
-([a-zA-Z]*)\[\[Estate\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Estate\]\]([a-zA-Z’'`]*)
 {{Card|Estate|\1Estate\2}}
 \[\[Estate\|([^\]]*)\]\]
 {{Card|Estate|\1}}
-([^a-zA-Z])\[\[Silver\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Silver\]\]([^a-zA-Z’'`])
 \1{{Card|Silver}}\2
-([a-zA-Z]*)\[\[Silver\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Silver\]\]([a-zA-Z’'`]*)
 {{Card|Silver|\1Silver\2}}
 \[\[Silver\|([^\]]*)\]\]
 {{Card|Silver|\1}}
-([^a-zA-Z])\[\[Potion\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Potion\]\]([^a-zA-Z’'`])
 \1{{Card|Potion}}\2
-([a-zA-Z]*)\[\[Potion\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Potion\]\]([a-zA-Z’'`]*)
 {{Card|Potion|\1Potion\2}}
 \[\[Potion\|([^\]]*)\]\]
 {{Card|Potion|\1}}
-([^a-zA-Z])\[\[Duchy\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Duchy\]\]([^a-zA-Z’'`])
 \1{{Card|Duchy}}\2
-([a-zA-Z]*)\[\[Duchy\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Duchy\]\]([a-zA-Z’'`]*)
 {{Card|Duchy|\1Duchy\2}}
 \[\[Duchy\|([^\]]*)\]\]
 {{Card|Duchy|\1}}
-([^a-zA-Z])\[\[Gold\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Gold\]\]([^a-zA-Z’'`])
 \1{{Card|Gold}}\2
-([a-zA-Z]*)\[\[Gold\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Gold\]\]([a-zA-Z’'`]*)
 {{Card|Gold|\1Gold\2}}
 \[\[Gold\|([^\]]*)\]\]
 {{Card|Gold|\1}}
-([^a-zA-Z])\[\[Province\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Province\]\]([^a-zA-Z’'`])
 \1{{Card|Province}}\2
-([a-zA-Z]*)\[\[Province\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Province\]\]([a-zA-Z’'`]*)
 {{Card|Province|\1Province\2}}
 \[\[Province\|([^\]]*)\]\]
 {{Card|Province|\1}}
-([^a-zA-Z])\[\[Platinum\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Platinum\]\]([^a-zA-Z’'`])
 \1{{Card|Platinum}}\2
-([a-zA-Z]*)\[\[Platinum\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Platinum\]\]([a-zA-Z’'`]*)
 {{Card|Platinum|\1Platinum\2}}
 \[\[Platinum\|([^\]]*)\]\]
 {{Card|Platinum|\1}}
-([^a-zA-Z])\[\[Colony\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Colony\]\]([^a-zA-Z’'`])
 \1{{Card|Colony}}\2
-([a-zA-Z]*)\[\[Colony\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Colony\]\]([a-zA-Z’'`]*)
 {{Card|Colony|\1Colony\2}}
 \[\[Colony\|([^\]]*)\]\]
 {{Card|Colony|\1}}
-([^a-zA-Z])\[\[Bag of Gold\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Bag of Gold\]\]([^a-zA-Z’'`])
 \1{{Card|Bag of Gold}}\2
-([a-zA-Z]*)\[\[Bag of Gold\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Bag of Gold\]\]([a-zA-Z’'`]*)
 {{Card|Bag of Gold|\1Bag of Gold\2}}
 \[\[Bag of Gold\|([^\]]*)\]\]
 {{Card|Bag of Gold|\1}}
-([^a-zA-Z])\[\[Diadem\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Diadem\]\]([^a-zA-Z’'`])
 \1{{Card|Diadem}}\2
-([a-zA-Z]*)\[\[Diadem\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Diadem\]\]([a-zA-Z’'`]*)
 {{Card|Diadem|\1Diadem\2}}
 \[\[Diadem\|([^\]]*)\]\]
 {{Card|Diadem|\1}}
-([^a-zA-Z])\[\[Followers\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Followers\]\]([^a-zA-Z’'`])
 \1{{Card|Followers}}\2
-([a-zA-Z]*)\[\[Followers\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Followers\]\]([a-zA-Z’'`]*)
 {{Card|Followers|\1Followers\2}}
 \[\[Followers\|([^\]]*)\]\]
 {{Card|Followers|\1}}
-([^a-zA-Z])\[\[Princess\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Princess\]\]([^a-zA-Z’'`])
 \1{{Card|Princess}}\2
-([a-zA-Z]*)\[\[Princess\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Princess\]\]([a-zA-Z’'`]*)
 {{Card|Princess|\1Princess\2}}
 \[\[Princess\|([^\]]*)\]\]
 {{Card|Princess|\1}}
-([^a-zA-Z])\[\[Trusty Steed\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Trusty Steed\]\]([^a-zA-Z’'`])
 \1{{Card|Trusty Steed}}\2
-([a-zA-Z]*)\[\[Trusty Steed\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Trusty Steed\]\]([a-zA-Z’'`]*)
 {{Card|Trusty Steed|\1Trusty Steed\2}}
 \[\[Trusty Steed\|([^\]]*)\]\]
 {{Card|Trusty Steed|\1}}
-([^a-zA-Z])\[\[Dame Anna\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Dame Anna\]\]([^a-zA-Z’'`])
 \1{{Card|Dame Anna}}\2
-([a-zA-Z]*)\[\[Dame Anna\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Dame Anna\]\]([a-zA-Z’'`]*)
 {{Card|Dame Anna|\1Dame Anna\2}}
 \[\[Dame Anna\|([^\]]*)\]\]
 {{Card|Dame Anna|\1}}
-([^a-zA-Z])\[\[Dame Josephine\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Dame Josephine\]\]([^a-zA-Z’'`])
 \1{{Card|Dame Josephine}}\2
-([a-zA-Z]*)\[\[Dame Josephine\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Dame Josephine\]\]([a-zA-Z’'`]*)
 {{Card|Dame Josephine|\1Dame Josephine\2}}
 \[\[Dame Josephine\|([^\]]*)\]\]
 {{Card|Dame Josephine|\1}}
-([^a-zA-Z])\[\[Dame Molly\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Dame Molly\]\]([^a-zA-Z’'`])
 \1{{Card|Dame Molly}}\2
-([a-zA-Z]*)\[\[Dame Molly\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Dame Molly\]\]([a-zA-Z’'`]*)
 {{Card|Dame Molly|\1Dame Molly\2}}
 \[\[Dame Molly\|([^\]]*)\]\]
 {{Card|Dame Molly|\1}}
-([^a-zA-Z])\[\[Dame Natalie\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Dame Natalie\]\]([^a-zA-Z’'`])
 \1{{Card|Dame Natalie}}\2
-([a-zA-Z]*)\[\[Dame Natalie\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Dame Natalie\]\]([a-zA-Z’'`]*)
 {{Card|Dame Natalie|\1Dame Natalie\2}}
 \[\[Dame Natalie\|([^\]]*)\]\]
 {{Card|Dame Natalie|\1}}
-([^a-zA-Z])\[\[Dame Sylvia\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Dame Sylvia\]\]([^a-zA-Z’'`])
 \1{{Card|Dame Sylvia}}\2
-([a-zA-Z]*)\[\[Dame Sylvia\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Dame Sylvia\]\]([a-zA-Z’'`]*)
 {{Card|Dame Sylvia|\1Dame Sylvia\2}}
 \[\[Dame Sylvia\|([^\]]*)\]\]
 {{Card|Dame Sylvia|\1}}
-([^a-zA-Z])\[\[Sir Bailey\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Sir Bailey\]\]([^a-zA-Z’'`])
 \1{{Card|Sir Bailey}}\2
-([a-zA-Z]*)\[\[Sir Bailey\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Sir Bailey\]\]([a-zA-Z’'`]*)
 {{Card|Sir Bailey|\1Sir Bailey\2}}
 \[\[Sir Bailey\|([^\]]*)\]\]
 {{Card|Sir Bailey|\1}}
-([^a-zA-Z])\[\[Sir Destry\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Sir Destry\]\]([^a-zA-Z’'`])
 \1{{Card|Sir Destry}}\2
-([a-zA-Z]*)\[\[Sir Destry\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Sir Destry\]\]([a-zA-Z’'`]*)
 {{Card|Sir Destry|\1Sir Destry\2}}
 \[\[Sir Destry\|([^\]]*)\]\]
 {{Card|Sir Destry|\1}}
-([^a-zA-Z])\[\[Sir Martin\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Sir Martin\]\]([^a-zA-Z’'`])
 \1{{Card|Sir Martin}}\2
-([a-zA-Z]*)\[\[Sir Martin\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Sir Martin\]\]([a-zA-Z’'`]*)
 {{Card|Sir Martin|\1Sir Martin\2}}
 \[\[Sir Martin\|([^\]]*)\]\]
 {{Card|Sir Martin|\1}}
-([^a-zA-Z])\[\[Sir Michael\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Sir Michael\]\]([^a-zA-Z’'`])
 \1{{Card|Sir Michael}}\2
-([a-zA-Z]*)\[\[Sir Michael\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Sir Michael\]\]([a-zA-Z’'`]*)
 {{Card|Sir Michael|\1Sir Michael\2}}
 \[\[Sir Michael\|([^\]]*)\]\]
 {{Card|Sir Michael|\1}}
-([^a-zA-Z])\[\[Sir Vander\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Sir Vander\]\]([^a-zA-Z’'`])
 \1{{Card|Sir Vander}}\2
-([a-zA-Z]*)\[\[Sir Vander\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Sir Vander\]\]([a-zA-Z’'`]*)
 {{Card|Sir Vander|\1Sir Vander\2}}
 \[\[Sir Vander\|([^\]]*)\]\]
 {{Card|Sir Vander|\1}}
-([^a-zA-Z])\[\[Abandoned Mine\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Abandoned Mine\]\]([^a-zA-Z’'`])
 \1{{Card|Abandoned Mine}}\2
-([a-zA-Z]*)\[\[Abandoned Mine\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Abandoned Mine\]\]([a-zA-Z’'`]*)
 {{Card|Abandoned Mine|\1Abandoned Mine\2}}
 \[\[Abandoned Mine\|([^\]]*)\]\]
 {{Card|Abandoned Mine|\1}}
-([^a-zA-Z])\[\[Ruined Library\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Ruined Library\]\]([^a-zA-Z’'`])
 \1{{Card|Ruined Library}}\2
-([a-zA-Z]*)\[\[Ruined Library\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Ruined Library\]\]([a-zA-Z’'`]*)
 {{Card|Ruined Library|\1Ruined Library\2}}
 \[\[Ruined Library\|([^\]]*)\]\]
 {{Card|Ruined Library|\1}}
-([^a-zA-Z])\[\[Ruined Market\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Ruined Market\]\]([^a-zA-Z’'`])
 \1{{Card|Ruined Market}}\2
-([a-zA-Z]*)\[\[Ruined Market\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Ruined Market\]\]([a-zA-Z’'`]*)
 {{Card|Ruined Market|\1Ruined Market\2}}
 \[\[Ruined Market\|([^\]]*)\]\]
 {{Card|Ruined Market|\1}}
-([^a-zA-Z])\[\[Ruined Village\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Ruined Village\]\]([^a-zA-Z’'`])
 \1{{Card|Ruined Village}}\2
-([a-zA-Z]*)\[\[Ruined Village\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Ruined Village\]\]([a-zA-Z’'`]*)
 {{Card|Ruined Village|\1Ruined Village\2}}
 \[\[Ruined Village\|([^\]]*)\]\]
 {{Card|Ruined Village|\1}}
-([^a-zA-Z])\[\[Survivors\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Survivors\]\]([^a-zA-Z’'`])
 \1{{Card|Survivors}}\2
-([a-zA-Z]*)\[\[Survivors\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Survivors\]\]([a-zA-Z’'`]*)
 {{Card|Survivors|\1Survivors\2}}
 \[\[Survivors\|([^\]]*)\]\]
 {{Card|Survivors|\1}}
-([^a-zA-Z])\[\[Hovel\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Hovel\]\]([^a-zA-Z’'`])
 \1{{Card|Hovel}}\2
-([a-zA-Z]*)\[\[Hovel\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Hovel\]\]([a-zA-Z’'`]*)
 {{Card|Hovel|\1Hovel\2}}
 \[\[Hovel\|([^\]]*)\]\]
 {{Card|Hovel|\1}}
-([^a-zA-Z])\[\[Necropolis\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Necropolis\]\]([^a-zA-Z’'`])
 \1{{Card|Necropolis}}\2
-([a-zA-Z]*)\[\[Necropolis\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Necropolis\]\]([a-zA-Z’'`]*)
 {{Card|Necropolis|\1Necropolis\2}}
 \[\[Necropolis\|([^\]]*)\]\]
 {{Card|Necropolis|\1}}
-([^a-zA-Z])\[\[Overgrown Estate\]\]([^a-zA-Z])
+([^a-zA-Z])\[\[Overgrown Estate\]\]([^a-zA-Z’'`])
 \1{{Card|Overgrown Estate}}\2
-([a-zA-Z]*)\[\[Overgrown Estate\]\]([a-zA-Z]*)
+([a-zA-Z]*)\[\[Overgrown Estate\]\]([a-zA-Z’'`]*)
 {{Card|Overgrown Estate|\1Overgrown Estate\2}}
 \[\[Overgrown Estate\|([^\]]*)\]\]
 {{Card|Overgrown Estate|\1}}
