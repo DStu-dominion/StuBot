@@ -17,9 +17,8 @@ PAGEARCHIVE="User:DStu/OldFeaturedArticles"
 HEADING="Former Featured Articles"
 
 #Add new year if current year is not in the list yet
-python scripts/replace.py -page:$PAGEARCHIVE -excepttext:"=== $YEAR ===" -regex "(== $HEADING ==)" "\1\n=== $YEAR ==="
+python scripts/replace.py -page:$PAGEARCHIVE -excepttext:"=== $YEAR ===" -regex "(== $HEADING ==)" "\1\n=== $YEAR ===" -summary:"Happy new year"
 
 #Add link to featured article if it's not in (this years) list
-#Todo: Don't include, if it was last on last years list?
-python scripts/replace.py -page:$PAGEARCHIVE -excepttext:"=== ($YEAR)|(($YEAR-1)) ===\n[^\n]*$LINK" -regex "(=== $YEAR ===)" "\1\n* $MONTH: $LINK"
+python scripts/replace.py -page:$PAGEARCHIVE -excepttext:"=== ($YEAR)|(($YEAR-1)) ===\n[^\n]*$LINK" -regex "(=== $YEAR ===)" "\1\n* $MONTH: $LINK" -summary:"Archived old featured articles"
 
