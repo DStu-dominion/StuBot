@@ -11,8 +11,8 @@ FALINK=$(echo $FA | grep -oE '(\{\{[^\}]*\}\})|(\[\[[a-zA-Z\|]*\]\])' | grep -m 
 export LC_TIME=en_US.UTF-8
 YEAR=$(date +%Y)
 MONTH=$(date +%B)
-PAGEARCHIVE="User:DStu/OldFeaturedArticles"
-PAGEDYK="User:DStu/OldDidYouKnow"
+PAGEARCHIVE="Main_Page/Featured_Article/Archive"
+PAGEDYK="Main_Page/Did_You_Know/Archive"
 
 DYKHEADING="Former Did You Know"
 FAHEADING="Former Featured Articles"
