@@ -1360,3 +1360,33 @@
 {{Card|Overgrown Estate|\1Overgrown Estate\2}}
 \[\[Overgrown Estate\|([^\]]*)\]\]
 {{Card|Overgrown Estate|\1}}
+([^a-zA-Z])\[\[Baker\]\]([^a-zA-Z’'`])
+\1{{Card|Baker}}\2
+([a-zA-Z]*)\[\[Baker\]\]([a-zA-Z’'`]*)
+{{Card|Baker|\1Baker\2}}
+\[\[Baker\|([^\]]*)\]\]
+{{Card|Baker|\1}}
+([^a-zA-Z])\[\[Doctor\]\]([^a-zA-Z’'`])
+\1{{Card|Doctor}}\2
+([a-zA-Z]*)\[\[Doctor\]\]([a-zA-Z’'`]*)
+{{Card|Doctor|\1Doctor\2}}
+\[\[Doctor\|([^\]]*)\]\]
+{{Card|Doctor|\1}}
+([^a-zA-Z])\[\[Journeyman\]\]([^a-zA-Z’'`])
+\1{{Card|Journeyman}}\2
+([a-zA-Z]*)\[\[Journeyman\]\]([a-zA-Z’'`]*)
+{{Card|Journeyman|\1Journeyman\2}}
+\[\[Journeyman\|([^\]]*)\]\]
+{{Card|Journeyman|\1}}
+([^a-zA-Z])\[\[Butcher\]\]([^a-zA-Z’'`])
+\1{{Card|Butcher}}\2
+([a-zA-Z]*)\[\[Butcher\]\]([a-zA-Z’'`]*)
+{{Card|Butcher|\1Butcher\2}}
+\[\[Butcher\|([^\]]*)\]\]
+{{Card|Butcher|\1}}
+([^a-zA-Z])\[\[Herald\]\]([^a-zA-Z’'`])
+\1{{Card|Herald}}\2
+([a-zA-Z]*)\[\[Herald\]\]([a-zA-Z’'`]*)
+{{Card|Herald|\1Herald\2}}
+\[\[Herald\|([^\]]*)\]\]
+{{Card|Herald|\1}}

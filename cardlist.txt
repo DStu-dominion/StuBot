@@ -225,3 +225,8 @@ Survivors
 Hovel
 Necropolis
 Overgrown Estate
+Baker
+Doctor
+Journeyman
+Butcher
+Herald
