@@ -1390,3 +1390,51 @@
 {{Card|Herald|\1Herald\2}}
 \[\[Herald\|([^\]]*)\]\]
 {{Card|Herald|\1}}
+([^a-zA-Z])\[\[Candlestick Maker\]\]([^a-zA-Z’'`])
+\1{{Card|Candlestick Maker}}\2
+([a-zA-Z]*)\[\[Candlestick Maker\]\]([a-zA-Z’'`]*)
+{{Card|Candlestick Maker|\1Candlestick Maker\2}}
+\[\[Candlestick Maker\|([^\]]*)\]\]
+{{Card|Candlestick Maker|\1}}
+([^a-zA-Z])\[\[Stonemason\]\]([^a-zA-Z’'`])
+\1{{Card|Stonemason}}\2
+([a-zA-Z]*)\[\[Stonemason\]\]([a-zA-Z’'`]*)
+{{Card|Stonemason|\1Stonemason\2}}
+\[\[Stonemason\|([^\]]*)\]\]
+{{Card|Stonemason|\1}}
+([^a-zA-Z])\[\[Masterpiece\]\]([^a-zA-Z’'`])
+\1{{Card|Masterpiece}}\2
+([a-zA-Z]*)\[\[Masterpiece\]\]([a-zA-Z’'`]*)
+{{Card|Masterpiece|\1Masterpiece\2}}
+\[\[Masterpiece\|([^\]]*)\]\]
+{{Card|Masterpiece|\1}}
+([^a-zA-Z])\[\[Advisor\]\]([^a-zA-Z’'`])
+\1{{Card|Advisor}}\2
+([a-zA-Z]*)\[\[Advisor\]\]([a-zA-Z’'`]*)
+{{Card|Advisor|\1Advisor\2}}
+\[\[Advisor\|([^\]]*)\]\]
+{{Card|Advisor|\1}}
+([^a-zA-Z])\[\[Plaza\]\]([^a-zA-Z’'`])
+\1{{Card|Plaza}}\2
+([a-zA-Z]*)\[\[Plaza\]\]([a-zA-Z’'`]*)
+{{Card|Plaza|\1Plaza\2}}
+\[\[Plaza\|([^\]]*)\]\]
+{{Card|Plaza|\1}}
+([^a-zA-Z])\[\[Taxman\]\]([^a-zA-Z’'`])
+\1{{Card|Taxman}}\2
+([a-zA-Z]*)\[\[Taxman\]\]([a-zA-Z’'`]*)
+{{Card|Taxman|\1Taxman\2}}
+\[\[Taxman\|([^\]]*)\]\]
+{{Card|Taxman|\1}}
+([^a-zA-Z])\[\[Merchant Guild\]\]([^a-zA-Z’'`])
+\1{{Card|Merchant Guild}}\2
+([a-zA-Z]*)\[\[Merchant Guild\]\]([a-zA-Z’'`]*)
+{{Card|Merchant Guild|\1Merchant Guild\2}}
+\[\[Merchant Guild\|([^\]]*)\]\]
+{{Card|Merchant Guild|\1}}
+([^a-zA-Z])\[\[Soothsayer\]\]([^a-zA-Z’'`])
+\1{{Card|Soothsayer}}\2
+([a-zA-Z]*)\[\[Soothsayer\]\]([a-zA-Z’'`]*)
+{{Card|Soothsayer|\1Soothsayer\2}}
+\[\[Soothsayer\|([^\]]*)\]\]
+{{Card|Soothsayer|\1}}
