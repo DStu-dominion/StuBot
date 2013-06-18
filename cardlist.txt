@@ -230,3 +230,11 @@ Doctor
 Journeyman
 Butcher
 Herald
+Candlestick Maker
+Stonemason
+Masterpiece
+Advisor
+Plaza
+Taxman
+Merchant Guild
+Soothsayer
