@@ -4,7 +4,7 @@
 
 # get featured article/DYK
 FA=$(GET "http://wiki.dominionstrategy.com/api.php?action=query&prop=revisions&rvprop=content&titles=Template:Featured_article")
-DYK=$(GET "http://wiki.dominionstrategy.com/index.php?action=raw&title=Template:Did_you_know")
+DYK=$(GET "http://wiki.dominionstrategy.com/index.php?action=raw&title=Template:Did_you_know" | head -n1)
 FALINK=$(echo $FA | grep -oE '(\{\{[^\}]*\}\})|(\[\[[a-zA-Z\|]*\]\])' | grep -m 1 -oE '(\{\{[^\}]*\}\})|(\[\[[a-zA-Z\|]*\]\])')
 
 #Want english names for the month
@@ -26,8 +26,11 @@ python scripts/replace.py -page:$PAGEARCHIVE -regex "(=== $YEAR ===)" "\1\n* $MO
 
 
 # DIY:
+#Does not work at the moment...
 #Add new year if current year is not in the list yet
 python scripts/replace.py -page:$PAGEDYK -excepttext:"=== $YEAR ===" -regex "(== $DYKHEADING ==)" "\1\n=== $YEAR ===" -summary:"Happy new year $YEAR" -always
 #Add text to former DYK if it's not in the list
-python scripts/replace.py -page:$PAGEDYK -excepttext:"$DYK" -regex "(=== $YEAR ===)" "\1\n* $MONTH:\n$DYK" -summary:"Archived old DYK" -always
+python scripts/replace.py -page:$PAGEDYK -excepttext:"$DYK" -regex "(=== $YEAR ===)" "\1\n* $MONTH:\n$DYK" -summary:"Archived old DYK"
+# -always
+echo $DYK
 
